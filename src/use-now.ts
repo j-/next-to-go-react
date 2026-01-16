@@ -1,11 +1,13 @@
 import { useEffect, useState } from 'react';
 
+const initNow = () => new Date();
+
 export const useNow = (intervalMs = 1_000) => {
-  const [now, setNow] = useState(Date.now);
+  const [now, setNow] = useState(initNow);
 
   useEffect(() => {
     const clock = setInterval(() => {
-      setNow(Date.now);
+      setNow(initNow);
     }, intervalMs);
 
     return () => {
