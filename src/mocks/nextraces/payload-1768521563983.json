@@ -1,0 +1,426 @@
+{
+  "status": 200,
+  "data": {
+    "next_to_go_ids": [
+      "94ce9498-a9ce-45a8-acc8-4851c6c7cfa1",
+      "740b4da9-d782-4f9a-9258-714b28cad829",
+      "3a7c7ce8-86ee-421c-b301-09ae6859c491",
+      "42684934-e625-4428-9fe2-1ddb62dbf105",
+      "0ae59b8a-24a0-4766-b460-8ee49144a304",
+      "0e54c8df-d637-4553-ad9b-38a41a706e8f",
+      "7236e999-d929-4567-a7d2-25b3901d2274",
+      "4634db09-1b80-4cd5-a52c-f2c863a12c8b",
+      "146f1712-ad26-4b40-bdb1-88de328eaf90",
+      "c824820e-92af-4754-8742-0351f5fd7429"
+    ],
+    "race_summaries": {
+      "0ae59b8a-24a0-4766-b460-8ee49144a304": {
+        "race_id": "0ae59b8a-24a0-4766-b460-8ee49144a304",
+        "race_name": "1M Stakes",
+        "race_number": 4,
+        "meeting_id": "fad937b1-aafd-4595-a2c2-9d016914b48d",
+        "meeting_name": "Delta Downs",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1768522260
+        },
+        "race_form": {
+          "distance": 1609,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name": "Fast",
+            "short_name": "fast"
+          },
+          "track_condition_id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "race_comment": "PRIMO CANARY (1) knuckled down strongly to get within 1.3 lengths of the winner in third last start over 1509m at this track. Will drift back but wind up late. Will be tough to hold out. NORTH OF BALI (8) finished 5 lengths away in fourth last time out over 1308m at this track five weeks ago. Tackles a longer journey this time. Major player in this line up. GUNS (2) is close to breaking through after two consecutive placings, the latest at this track over 1408m. Likely to play a major role. SILVER SCREEN (3) turned in an eye-catching run last start over 1308m at this track (Dirt), dropping out early before coming home with a powerful run to finish third. Can feature in the finish.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Delta Downs\",\"state\":\"LA\",\"country\":\"USA\",\"number\":4,\"race_name\":\"1M Stakes\",\"time\":\"2026-01-16T00:11:00Z\",\"class\":\"CLM\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":29148},\"localised_prizemonies\":{\"AUD\":{\"total_value\":29148},\"NZD\":{\"total_value\":33812}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"Dirt\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "PRIMO CANARY (1) knuckled down strongly to get within 1.3 lengths of the winner in third last start over 1509m at this track. Will drift back but wind up late. Will be tough to hold out. NORTH OF BALI (8) finished 5 lengths away in fourth last time out over 1308m at this track five weeks ago. Tackles a longer journey this time. Major player in this line up. GUNS (2) is close to breaking through after two consecutive placings, the latest at this track over 1408m. Likely to play a major role. SILVER SCREEN (3) turned in an eye-catching run last start over 1308m at this track (Dirt), dropping out early before coming home with a powerful run to finish third. Can feature in the finish."
+        },
+        "venue_id": "097760c6-119c-478b-811a-aac894fdc993",
+        "venue_name": "Delta Downs",
+        "venue_state": "LA",
+        "venue_country": "USA"
+      },
+      "0e54c8df-d637-4553-ad9b-38a41a706e8f": {
+        "race_id": "0e54c8df-d637-4553-ad9b-38a41a706e8f",
+        "race_name": "AGRISOURCE MAIDEN 1400",
+        "race_number": 1,
+        "meeting_id": "24d9fbd6-8159-4610-8e01-03c8024e7580",
+        "meeting_name": "Te Rapa",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1768522380
+        },
+        "race_form": {
+          "distance": 1400,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "c91c2825-2b25-11e9-8745-066fe85581de",
+            "name": "Soft7",
+            "short_name": "soft7"
+          },
+          "track_condition_id": "c91c2825-2b25-11e9-8745-066fe85581de",
+          "weather": {
+            "id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+            "name": "Overcast",
+            "short_name": "overcast",
+            "icon_uri": "Overcast"
+          },
+          "weather_id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "SINGLE RED (10) was showing potential at the trials before finishing a sound runner-up as the favourite at Tauranga 2 weeks ago. Se has trialled on this course in the past, and only needs some luck from a wide gate to be hard to beat. MISISSIPI GAMBLER (6) fought on gamely when finishing third on debut at New Plymouth nearly 3 weeks ago, beaten by a head. She won't have to improve by much to get the job done here. CHICA (13) looked to be in need of her debut run at Matamata after showing talent in her lead-up trials. The extra furlong will help her, and from a handy gate, she will be a quick improver. HAIKU (14) won a trial before having not much luck on debut at Arawa Park 6 weeks ago. A wide gate is no help, but she has the scope to pick up a win in the near future. VAN PELT (8) has each-way claims at a price.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Te Rapa\",\"state\":\"NZ\",\"country\":\"NZ\",\"number\":1,\"race_name\":\"AGRISOURCE MAIDEN 1400\",\"time\":\"2026-01-16T00:13:00Z\",\"class\":\"MDN\",\"start_type\":\"\",\"prizemonies\":{\"10th\":370,\"1st\":10360,\"2nd\":3330,\"3rd\":1665,\"4th\":925,\"5th\":370,\"6th\":370,\"7th\":370,\"8th\":370,\"9th\":370},\"localised_prizemonies\":{\"AUD\":{\"10th\":336,\"1st\":9418,\"2nd\":3027,\"3rd\":1514,\"4th\":841,\"5th\":336,\"6th\":336,\"7th\":336,\"8th\":336,\"9th\":336,\"total_value\":16818},\"NZD\":{\"10th\":370,\"1st\":10360,\"2nd\":3330,\"3rd\":1665,\"4th\":925,\"5th\":370,\"6th\":370,\"7th\":370,\"8th\":370,\"9th\":370,\"total_value\":18500}},\"rail_position\":\"Out 7m | 42mm Rain Last 24 Hours | 43mm Rain Last 7 Days\",\"track_direction\":\"Left\",\"track_surface\":\"Grass\",\"group\":\"\",\"gait\":\"\",\"track_home_straight_metres\":420,\"track_circumference\":1800,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "SINGLE RED (10) was showing potential at the trials before finishing a sound runner-up as the favourite at Tauranga 2 weeks ago. Se has trialled on this course in the past, and only needs some luck from a wide gate to be hard to beat. MISISSIPI GAMBLER (6) fought on gamely when finishing third on debut at New Plymouth nearly 3 weeks ago, beaten by a head. She won't have to improve by much to get the job done here. CHICA (13) looked to be in need of her debut run at Matamata after showing talent in her lead-up trials. The extra furlong will help her, and from a handy gate, she will be a quick improver. HAIKU (14) won a trial before having not much luck on debut at Arawa Park 6 weeks ago. A wide gate is no help, but she has the scope to pick up a win in the near future. VAN PELT (8) has each-way claims at a price."
+        },
+        "venue_id": "26b97518-d5e8-4634-bfb3-871decca9a96",
+        "venue_name": "Te Rapa",
+        "venue_state": "NZ",
+        "venue_country": "NZ"
+      },
+      "146f1712-ad26-4b40-bdb1-88de328eaf90": {
+        "race_id": "146f1712-ad26-4b40-bdb1-88de328eaf90",
+        "race_name": "Race 4 - Claiming",
+        "race_number": 4,
+        "meeting_id": "cbe0bf00-dc4b-4666-9e54-842fd68b0524",
+        "meeting_name": "Turfway Park",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1768523100
+        },
+        "race_form": {
+          "distance": 1609,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name": "Fast",
+            "short_name": "fast"
+          },
+          "track_condition_id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "weather": {
+            "id": "18c6f07a-b37b-11e7-aabe-061a47531548",
+            "name": "Cloudy",
+            "short_name": "cloudy",
+            "icon_uri": "Cloudy"
+          },
+          "weather_id": "18c6f07a-b37b-11e7-aabe-061a47531548",
+          "race_comment": "LEADING (11) couldn't have been more impressive first up last start when he scored by 3 lengths over 1710m at this track (Synthetic). Will be better for that latest run and is the testing material. MEMES (8) turned things around last start and scored by 3 lengths after being in the firing line on the bend over 1609m at this track (Synthetic). Meeting a deeper field this time but he is up to the challenge. GARDEN LEAVE (5) settled well back and never threatened when beaten 32 lengths into sixth last time out over 1609m at Penn National (Dirt). Commendable record at this trip with a win and two minor placings and shapes as a key runner. AIR MARSHAL (7) returned from a spell five weeks ago when he was beaten 3.5 lengths into fifth over 1308m at this track. Strips fitter and can improve. Something for the Multiples: CREEK (6)",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Turfway Park\",\"state\":\"KY\",\"country\":\"USA\",\"number\":4,\"race_name\":\"Race 4 - Claiming\",\"time\":\"2026-01-16T00:25:00Z\",\"class\":\"CLM\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":40060},\"localised_prizemonies\":{\"AUD\":{\"1st\":25238,\"2nd\":8012,\"3rd\":4006,\"4th\":2804,\"total_value\":40060},\"NZD\":{\"1st\":29276,\"2nd\":9294,\"3rd\":4647,\"4th\":3253,\"total_value\":46470}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"Synthetic\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "LEADING (11) couldn't have been more impressive first up last start when he scored by 3 lengths over 1710m at this track (Synthetic). Will be better for that latest run and is the testing material. MEMES (8) turned things around last start and scored by 3 lengths after being in the firing line on the bend over 1609m at this track (Synthetic). Meeting a deeper field this time but he is up to the challenge. GARDEN LEAVE (5) settled well back and never threatened when beaten 32 lengths into sixth last time out over 1609m at Penn National (Dirt). Commendable record at this trip with a win and two minor placings and shapes as a key runner. AIR MARSHAL (7) returned from a spell five weeks ago when he was beaten 3.5 lengths into fifth over 1308m at this track. Strips fitter and can improve. Something for the Multiples: CREEK (6)"
+        },
+        "venue_id": "5833b57a-73cd-4fed-9482-8437ac52e6b4",
+        "venue_name": "Turfway Park",
+        "venue_state": "KY",
+        "venue_country": "USA"
+      },
+      "3a7c7ce8-86ee-421c-b301-09ae6859c491": {
+        "race_id": "3a7c7ce8-86ee-421c-b301-09ae6859c491",
+        "race_name": "Race 8 - Claiming",
+        "race_number": 8,
+        "meeting_id": "0bd5d87a-bcbe-41e2-ade8-54c330cb2c45",
+        "meeting_name": "Santa Anita Park",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1768521900
+        },
+        "race_form": {
+          "distance": 1609,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name": "Fast",
+            "short_name": "fast"
+          },
+          "track_condition_id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "weather": {
+            "id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+            "name": "Fine",
+            "short_name": "fine",
+            "icon_uri": "Fine"
+          },
+          "weather_id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "LOVE OUR FAMILY (6) returns from a break of nine months. Consistent performer last prep whose most recent appearance resulted in a seventh over 1609m at this track. Expected to bring the good form from last campaign to this contest. RYAN'S GIRL (7) finished 6 lengths behind the winner in sixth over 1106m at Los Alamitos (Dirt) last start after lifting strongly to score two runs back. Should be prominent from the outset. Expecting a bold showing. BIG CELEBRATION (8) settled well back last start and never threatened when 10 lengths from the winner in seventh over 1106m at Los Alamitos (Dirt). This doesn't look as hard so she is sure to be prominent. PRINCESS DADDY (5) fought on for second last start over 914m at Los Alamitos Qh (Dirt), beaten 3.5 lengths to add to some fine recent form. Well placed and there is no reason she cannot find winning ways.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Santa Anita Park\",\"state\":\"CA\",\"country\":\"USA\",\"number\":8,\"race_name\":\"Race 8 - Claiming\",\"time\":\"2026-01-16T00:05:00Z\",\"class\":\"CLM\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":27653},\"localised_prizemonies\":{\"AUD\":{\"1st\":17422,\"2nd\":5531,\"3rd\":2765,\"4th\":1936,\"total_value\":27653},\"NZD\":{\"1st\":20210,\"2nd\":6416,\"3rd\":3207,\"4th\":2246,\"total_value\":32077}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"Dirt\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "LOVE OUR FAMILY (6) returns from a break of nine months. Consistent performer last prep whose most recent appearance resulted in a seventh over 1609m at this track. Expected to bring the good form from last campaign to this contest. RYAN'S GIRL (7) finished 6 lengths behind the winner in sixth over 1106m at Los Alamitos (Dirt) last start after lifting strongly to score two runs back. Should be prominent from the outset. Expecting a bold showing. BIG CELEBRATION (8) settled well back last start and never threatened when 10 lengths from the winner in seventh over 1106m at Los Alamitos (Dirt). This doesn't look as hard so she is sure to be prominent. PRINCESS DADDY (5) fought on for second last start over 914m at Los Alamitos Qh (Dirt), beaten 3.5 lengths to add to some fine recent form. Well placed and there is no reason she cannot find winning ways."
+        },
+        "venue_id": "055605ac-c120-4785-8344-7c7a4c36196a",
+        "venue_name": "Santa Anita Park",
+        "venue_state": "CA",
+        "venue_country": "USA"
+      },
+      "42684934-e625-4428-9fe2-1ddb62dbf105": {
+        "race_id": "42684934-e625-4428-9fe2-1ddb62dbf105",
+        "race_name": "Jason Mckeown Photography",
+        "race_number": 2,
+        "meeting_id": "872f56c2-dccf-46dd-ae8e-fb0b2ae4e886",
+        "meeting_name": "Healesville",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768522200
+        },
+        "race_form": {
+          "distance": 300,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "TELL ME LIES (8) flew the lids with a fast early split last time, hitting the frame with a 6 length third (22.67) over 390m at Shepparton and making it two placings on end. Top chance in this line up. BE COURAGEOUS (2) turned in a better run last time to find a minor placing (17.14) at this track behind Kunama Namadgi in a Bottom Up - Grade 7. Expected to feature. EXCELLENT DASH (7) hit the ground running to win over the 300m at this track two runs back then prominent throughout when finishing third at this track last start. Remains without a win from the draw but has been in the placings two times from three attempts. Leading player again. PERFECT JENNY (1) should bounce back after an unplaced effort here recently.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Healesville\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":2,\"race_name\":\"Jason Mckeown Photography\",\"time\":\"2026-01-16T00:10:00Z\",\"class\":\"Tier 3 - Grade 7\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":1530},\"localised_prizemonies\":{\"AUD\":{\"1st\":1000,\"2nd\":320,\"3rd\":160,\"4th\":50,\"total_value\":1530},\"NZD\":{\"1st\":1160,\"2nd\":371,\"3rd\":186,\"4th\":58,\"total_value\":1775}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "TELL ME LIES (8) flew the lids with a fast early split last time, hitting the frame with a 6 length third (22.67) over 390m at Shepparton and making it two placings on end. Top chance in this line up. BE COURAGEOUS (2) turned in a better run last time to find a minor placing (17.14) at this track behind Kunama Namadgi in a Bottom Up - Grade 7. Expected to feature. EXCELLENT DASH (7) hit the ground running to win over the 300m at this track two runs back then prominent throughout when finishing third at this track last start. Remains without a win from the draw but has been in the placings two times from three attempts. Leading player again. PERFECT JENNY (1) should bounce back after an unplaced effort here recently."
+        },
+        "venue_id": "f7cc8008-5d6c-4b8d-8b49-10031b391b74",
+        "venue_name": "Healesville",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "4634db09-1b80-4cd5-a52c-f2c863a12c8b": {
+        "race_id": "4634db09-1b80-4cd5-a52c-f2c863a12c8b",
+        "race_name": "ACCELL THERAPY NZ SPRINT HEAT 3 PBD",
+        "race_number": 6,
+        "meeting_id": "66270fdf-8b92-4c7f-90a7-55ef2c57371f",
+        "meeting_name": "Addington",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768522860
+        },
+        "race_form": {
+          "distance": 295,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+            "name": "Fine",
+            "short_name": "fine",
+            "icon_uri": "Fine"
+          },
+          "weather_id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "MITCHAM BLUE (3) found some support last start but struggled into fifth (23.25), beaten 1.75 lengths. Was in the money the start prior. Remains without a win from the draw but has been in the placings two times from four attempts. Looks the one to beat on his best form. TREASURED ANGEL (5) comes off an average run last start when fifth at this track over 295m behind Might Be Amazing (17.61). Raced in a very strong maiden final last start. Bold showing expected against this field. KEEPER DREAM (6) had a tough draw to overcome and was game in defeat when only one length from Homebush Rob in third (23.19) at Ascot Park. On the quick back up after racing on Wednesday and expected to feature again. ARMANI JEWEL (7) missed the placings here last start but is well-placed to turn the form around. Odds will be lucrative.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Addington\",\"state\":\"NZ\",\"country\":\"NZ\",\"number\":6,\"race_name\":\"ACCELL THERAPY NZ SPRINT HEAT 3 PBD\",\"time\":\"2026-01-16T00:21:00Z\",\"class\":\"C0q\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":2672},\"localised_prizemonies\":{\"AUD\":{\"total_value\":2818},\"NZD\":{\"total_value\":3100}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"Grade\",\"gait\":\"\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "MITCHAM BLUE (3) found some support last start but struggled into fifth (23.25), beaten 1.75 lengths. Was in the money the start prior. Remains without a win from the draw but has been in the placings two times from four attempts. Looks the one to beat on his best form. TREASURED ANGEL (5) comes off an average run last start when fifth at this track over 295m behind Might Be Amazing (17.61). Raced in a very strong maiden final last start. Bold showing expected against this field. KEEPER DREAM (6) had a tough draw to overcome and was game in defeat when only one length from Homebush Rob in third (23.19) at Ascot Park. On the quick back up after racing on Wednesday and expected to feature again. ARMANI JEWEL (7) missed the placings here last start but is well-placed to turn the form around. Odds will be lucrative."
+        },
+        "venue_id": "a1189bc2-f3ed-4b72-a8fd-cbc67ac1f13c",
+        "venue_name": "Addington",
+        "venue_state": "NZ",
+        "venue_country": "NZ"
+      },
+      "7236e999-d929-4567-a7d2-25b3901d2274": {
+        "race_id": "7236e999-d929-4567-a7d2-25b3901d2274",
+        "race_name": "5F Hcap",
+        "race_number": 20,
+        "meeting_id": "5da43b71-9386-4cb9-864c-af2b38385fd4",
+        "meeting_name": "Hipodromo Chile",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1768522560
+        },
+        "race_form": {
+          "distance": 1000,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name": "Fast",
+            "short_name": "fast"
+          },
+          "track_condition_id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "race_comment": "REINA MARGARET (4) got home by nearly a length last time out over 1000m at this track. Has a good record at this track with two wins and three minor placings. Has the gate speed to take up a forward position. Will give a great sight. FRIDAY (1) has a moderate winning strike-rate but performed well last time at this track, finishing second and only 2.25 lengths from the winner at the end of 1000m. Meets a similar field, and she is good enough to figure in the finish. PROFESSIONALS (12) finished out of the money two starts back, then was well beaten over 1200m at Club Hipico De Santiago two weeks ago. Tackling a similar field this time, and he is capable of running a bold race. CLASSIC FORM (13) missed the frame last time when fifth at this track. Prior to that had been in the money on two consecutive occasions. Has the gate speed to take up a forward position. Should give backers a sight.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Hipodromo Chile\",\"state\":\"CHI\",\"country\":\"CHI\",\"number\":20,\"race_name\":\"5F Hcap\",\"time\":\"2026-01-16T00:16:00Z\",\"class\":\"HCP\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":5789},\"localised_prizemonies\":{\"AUD\":{\"1st\":3735,\"2nd\":1046,\"3rd\":672,\"4th\":336,\"total_value\":5789},\"NZD\":{\"1st\":4333,\"2nd\":1213,\"3rd\":780,\"4th\":390,\"total_value\":6715}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"Dirt\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "REINA MARGARET (4) got home by nearly a length last time out over 1000m at this track. Has a good record at this track with two wins and three minor placings. Has the gate speed to take up a forward position. Will give a great sight. FRIDAY (1) has a moderate winning strike-rate but performed well last time at this track, finishing second and only 2.25 lengths from the winner at the end of 1000m. Meets a similar field, and she is good enough to figure in the finish. PROFESSIONALS (12) finished out of the money two starts back, then was well beaten over 1200m at Club Hipico De Santiago two weeks ago. Tackling a similar field this time, and he is capable of running a bold race. CLASSIC FORM (13) missed the frame last time when fifth at this track. Prior to that had been in the money on two consecutive occasions. Has the gate speed to take up a forward position. Should give backers a sight."
+        },
+        "venue_id": "4371113a-deaf-42f7-8a0b-934828f08b27",
+        "venue_name": "Hipodromo Chile",
+        "venue_state": "CHI",
+        "venue_country": "CHI"
+      },
+      "740b4da9-d782-4f9a-9258-714b28cad829": {
+        "race_id": "740b4da9-d782-4f9a-9258-714b28cad829",
+        "race_name": "Race 8 - Maiden Special Weight",
+        "race_number": 8,
+        "meeting_id": "df107a44-8863-4f64-9c5a-3dbf7002bb1c",
+        "meeting_name": "Turf Paradise",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1768521900
+        },
+        "race_form": {
+          "distance": 1207,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name": "Fast",
+            "short_name": "fast"
+          },
+          "track_condition_id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "SECRET INSANITY (2) missed the placings on debut two starts back then ran a better race and finished 3.5 lengths away in fourth last time out over 1207m at this track. This doesn't look as hard so he is sure to be prominent. EZ COWBOY (11) started favourite last time out over 1006m at this track (Dirt) but found one better, making it three minor placings from four starts this campaign. Jumps from a wide gate but he is a real danger. PI TIME (9) was below his best last time, finishing sixth and beaten 6 lengths over 1106m at this track (Dirt). Well placed and there is no reason he cannot find winning ways. CACTUS LEAGUE (3) has started twice, running a good second on debut then finishing seventh, beaten 8 lengths, last time over 1207m in Listed grade at this track (Dirt). Should settle up near the speed. Likely improver.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Turf Paradise\",\"state\":\"AZ\",\"country\":\"USA\",\"number\":8,\"race_name\":\"Race 8 - Maiden Special Weight\",\"time\":\"2026-01-16T00:05:00Z\",\"class\":\"MDN\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":25411},\"localised_prizemonies\":{\"AUD\":{\"1st\":16009,\"2nd\":5082,\"3rd\":2541,\"4th\":1779,\"total_value\":25411},\"NZD\":{\"1st\":18570,\"2nd\":5895,\"3rd\":2948,\"4th\":2064,\"total_value\":29477}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"Dirt\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "SECRET INSANITY (2) missed the placings on debut two starts back then ran a better race and finished 3.5 lengths away in fourth last time out over 1207m at this track. This doesn't look as hard so he is sure to be prominent. EZ COWBOY (11) started favourite last time out over 1006m at this track (Dirt) but found one better, making it three minor placings from four starts this campaign. Jumps from a wide gate but he is a real danger. PI TIME (9) was below his best last time, finishing sixth and beaten 6 lengths over 1106m at this track (Dirt). Well placed and there is no reason he cannot find winning ways. CACTUS LEAGUE (3) has started twice, running a good second on debut then finishing seventh, beaten 8 lengths, last time over 1207m in Listed grade at this track (Dirt). Should settle up near the speed. Likely improver."
+        },
+        "venue_id": "6c3bf06d-ea66-4d1e-8c5f-9d00bd310757",
+        "venue_name": "Turf Paradise",
+        "venue_state": "AZ",
+        "venue_country": "USA"
+      },
+      "94ce9498-a9ce-45a8-acc8-4851c6c7cfa1": {
+        "race_id": "94ce9498-a9ce-45a8-acc8-4851c6c7cfa1",
+        "race_name": "ACCELL THERAPY NZ SPRINT HEAT 2 PBD",
+        "race_number": 5,
+        "meeting_id": "66270fdf-8b92-4c7f-90a7-55ef2c57371f",
+        "meeting_name": "Addington",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768521780
+        },
+        "race_form": {
+          "distance": 295,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "DIAZ (3) has an honest record despite remaining a maiden and overdue for a win, having placed five of eight career runs. Is backing up quickly after racing on Wednesday and can figure in the finish. ROWDY JEWEL (6) dropped out early but hit the line hard, charging into third and beaten 3 lengths win (17.64) at this track in Class 0. Racing well and deserves a win. CALVIN JEWEL (4) comes into calculations after placing out of the same box most recently. One to throw into all combination bets.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Addington\",\"state\":\"NZ\",\"country\":\"NZ\",\"number\":5,\"race_name\":\"ACCELL THERAPY NZ SPRINT HEAT 2 PBD\",\"time\":\"2026-01-16T00:03:00Z\",\"class\":\"C0q\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":2672},\"localised_prizemonies\":{\"AUD\":{\"total_value\":2818},\"NZD\":{\"total_value\":3100}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"Grade\",\"gait\":\"\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "DIAZ (3) has an honest record despite remaining a maiden and overdue for a win, having placed five of eight career runs. Is backing up quickly after racing on Wednesday and can figure in the finish. ROWDY JEWEL (6) dropped out early but hit the line hard, charging into third and beaten 3 lengths win (17.64) at this track in Class 0. Racing well and deserves a win. CALVIN JEWEL (4) comes into calculations after placing out of the same box most recently. One to throw into all combination bets."
+        },
+        "venue_id": "a1189bc2-f3ed-4b72-a8fd-cbc67ac1f13c",
+        "venue_name": "Addington",
+        "venue_state": "NZ",
+        "venue_country": "NZ"
+      },
+      "c824820e-92af-4754-8742-0351f5fd7429": {
+        "race_id": "c824820e-92af-4754-8742-0351f5fd7429",
+        "race_name": "Download The Watchdog App",
+        "race_number": 3,
+        "meeting_id": "872f56c2-dccf-46dd-ae8e-fb0b2ae4e886",
+        "meeting_name": "Healesville",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768523280
+        },
+        "race_form": {
+          "distance": 300,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "ASTON KATY (2) wasn't far away at the finish when 5th and beaten only 1.3 lengths (19.82) at this track. Ready to return to form. BLACK APPETITE (6) has mixed form but was in the money three back and wasn't far away last time at this track when fourth (19.80) in a Bottom Up - Grade 5. Well placed here and can atone this time. BE A BEAUTY (7) has some solid form under her belt and proved too strong last time to win by 0.6 lengths at this track in a handy 17.07 beating Chubby Sammy. Leading chance again. DUNSMORE FLYER (4) was in the money last start here at this trip - likely to feature again.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Healesville\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":3,\"race_name\":\"Download The Watchdog App\",\"time\":\"2026-01-16T00:28:00Z\",\"class\":\"Grade 5 T3\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":1530},\"localised_prizemonies\":{\"AUD\":{\"1st\":1000,\"2nd\":320,\"3rd\":160,\"4th\":50,\"total_value\":1530},\"NZD\":{\"1st\":1160,\"2nd\":371,\"3rd\":186,\"4th\":58,\"total_value\":1775}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "ASTON KATY (2) wasn't far away at the finish when 5th and beaten only 1.3 lengths (19.82) at this track. Ready to return to form. BLACK APPETITE (6) has mixed form but was in the money three back and wasn't far away last time at this track when fourth (19.80) in a Bottom Up - Grade 5. Well placed here and can atone this time. BE A BEAUTY (7) has some solid form under her belt and proved too strong last time to win by 0.6 lengths at this track in a handy 17.07 beating Chubby Sammy. Leading chance again. DUNSMORE FLYER (4) was in the money last start here at this trip - likely to feature again."
+        },
+        "venue_id": "f7cc8008-5d6c-4b8d-8b49-10031b391b74",
+        "venue_name": "Healesville",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      }
+    }
+  },
+  "message": "Next 10 races from each category"
+}

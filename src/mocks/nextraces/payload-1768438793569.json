@@ -1,0 +1,426 @@
+{
+  "status": 200,
+  "data": {
+    "next_to_go_ids": [
+      "d180d083-954b-4844-80e9-0b51f3240308",
+      "255c47b6-158e-4439-b977-babe9a74314a",
+      "54e5fc88-3f92-44a1-a294-cf1d89983d40",
+      "498d47cc-168b-40b7-8faf-d8510b5c5ef1",
+      "4f84d879-2506-442f-8a3e-577b7e74de9f",
+      "51a1a178-4d94-4970-9fae-64a1d8dc03a3",
+      "5313c543-439c-4055-8a7c-225edabd34a8",
+      "5aca2946-455a-4c57-9906-97c46a31a1aa",
+      "bd964ac0-7c27-475a-897a-cd8d41398538",
+      "0a715512-e667-4ad3-b892-059b9b68f5a1"
+    ],
+    "race_summaries": {
+      "0a715512-e667-4ad3-b892-059b9b68f5a1": {
+        "race_id": "0a715512-e667-4ad3-b892-059b9b68f5a1",
+        "race_name": "Race 7 - 1609M",
+        "race_number": 7,
+        "meeting_id": "5b78ecf4-06f5-4cc7-a625-93b6c3da5b73",
+        "meeting_name": "Northfield Park",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1768439880
+        },
+        "race_form": {
+          "distance": 1609,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1706d200-a75b-11e7-96c3-0656c85e309e",
+            "name": "Slow",
+            "short_name": "slow"
+          },
+          "track_condition_id": "1706d200-a75b-11e7-96c3-0656c85e309e",
+          "weather": {
+            "id": "471d4022-3bf6-11e8-a5eb-06a5c6d9a756",
+            "name": "OVERCAST",
+            "short_name": "overcast",
+            "icon_uri": "OVERCAST"
+          },
+          "weather_id": "471d4022-3bf6-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "HOMESTRETCH WES (1) was successful last start by 1.5 metres at this track over 1609m after an encouraging minor placing the start before. Likely to get all the favours from this nice draw. Meets a comparable field so he is capable of taking this out. ROSE RUN XILED (9) could only manage third last start over 1609m at this track, beaten 19 metres, after victory at the previous appearance over 1609m at this track. Gets a soft run on the inside of the second line but may need luck at some point. Meets a comparable field and he can take this out. SO SO DE VIE (5) didn't do a bad job when fifth over 1609m at this track last time out. BB CRUISER (4) is better than his last-start ninth over 1609m at this track.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Northfield Park\",\"state\":\"OH\",\"country\":\"USA\",\"number\":7,\"race_name\":\"Race 7 - 1609M\",\"time\":\"2026-01-15T01:18:00Z\",\"class\":\"NW750PSLC\",\"start_type\":\"Mobile\",\"prizemonies\":{\"total_value\":11211},\"localised_prizemonies\":{\"AUD\":{\"total_value\":11211},\"NZD\":{\"total_value\":13005}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"P\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "HOMESTRETCH WES (1) was successful last start by 1.5 metres at this track over 1609m after an encouraging minor placing the start before. Likely to get all the favours from this nice draw. Meets a comparable field so he is capable of taking this out. ROSE RUN XILED (9) could only manage third last start over 1609m at this track, beaten 19 metres, after victory at the previous appearance over 1609m at this track. Gets a soft run on the inside of the second line but may need luck at some point. Meets a comparable field and he can take this out. SO SO DE VIE (5) didn't do a bad job when fifth over 1609m at this track last time out. BB CRUISER (4) is better than his last-start ninth over 1609m at this track."
+        },
+        "venue_id": "562f0f79-ecf3-4c04-805c-4d074ab7965e",
+        "venue_name": "Northfield Park",
+        "venue_state": "OH",
+        "venue_country": "USA"
+      },
+      "255c47b6-158e-4439-b977-babe9a74314a": {
+        "race_id": "255c47b6-158e-4439-b977-babe9a74314a",
+        "race_name": "Gpp Laser3300",
+        "race_number": 6,
+        "meeting_id": "abcfd632-541a-4636-901b-20ec921bb8db",
+        "meeting_name": "Shepparton",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768438800
+        },
+        "race_form": {
+          "distance": 450,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+            "name": "Fine",
+            "short_name": "fine",
+            "icon_uri": "Fine"
+          },
+          "weather_id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "ILLUMINATOR (3) settled midfield in the run and boxed on to finish there when 4th (25.50) at this track. Can make amends. LADY RAPID (8) quickly into stride to win over the 450m at this track two runs back then prominent throughout when finishing third at Warrnambool last start. Expected to be in this for a long way. SMALLER ACTS (1) produced a modest effort most recently when sixth at Ballarat over 390m behind Paw Welkes (22.99) in a Mix 6/7 H. Consistent performer from this draw with a win and two minor placings to his credit. Has the ability to give this a shake. HARPER SPILLER (4) cannot be left out after placing in a close finish last start.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Shepparton\",\"state\":\"VIC\",\"country\":\"AUS\",\"number\":6,\"race_name\":\"Gpp Laser3300\",\"time\":\"2026-01-15T01:00:00Z\",\"class\":\"Mixed 6/7\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":1530},\"localised_prizemonies\":{\"AUD\":{\"1st\":1000,\"2nd\":320,\"3rd\":160,\"4th\":50,\"total_value\":1530},\"NZD\":{\"1st\":1160,\"2nd\":371,\"3rd\":186,\"4th\":58,\"total_value\":1775}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "ILLUMINATOR (3) settled midfield in the run and boxed on to finish there when 4th (25.50) at this track. Can make amends. LADY RAPID (8) quickly into stride to win over the 450m at this track two runs back then prominent throughout when finishing third at Warrnambool last start. Expected to be in this for a long way. SMALLER ACTS (1) produced a modest effort most recently when sixth at Ballarat over 390m behind Paw Welkes (22.99) in a Mix 6/7 H. Consistent performer from this draw with a win and two minor placings to his credit. Has the ability to give this a shake. HARPER SPILLER (4) cannot be left out after placing in a close finish last start."
+        },
+        "venue_id": "ff79d849-5d27-4841-83f8-f25629e71420",
+        "venue_name": "Shepparton",
+        "venue_state": "VIC",
+        "venue_country": "AUS"
+      },
+      "498d47cc-168b-40b7-8faf-d8510b5c5ef1": {
+        "race_id": "498d47cc-168b-40b7-8faf-d8510b5c5ef1",
+        "race_name": "Race 3 - Maiden Claiming",
+        "race_number": 3,
+        "meeting_id": "2cf7bf8f-08ad-4100-9c05-7de83ef685e1",
+        "meeting_name": "Charles Town",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1768439280
+        },
+        "race_form": {
+          "distance": 1308,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "18c6f07a-b37b-11e7-aabe-061a47531548",
+            "name": "Cloudy",
+            "short_name": "cloudy",
+            "icon_uri": "Cloudy"
+          },
+          "weather_id": "18c6f07a-b37b-11e7-aabe-061a47531548",
+          "race_comment": "BOURBON AND BEAUTY (6) is yet to break through in five runs. Finished sixth at her last appearance over 905m at this track (Dirt) on January 3 after she gave away a big start. Finds a suitable assignment this time and is a great chance to break through. GORTREAGH GAL (9) failed to figure again last time over 1308m at this track (Dirt), beaten 23 lengths into seventh. Capable of playing a major role on her best form. CRUZIN VAN NUYS (3) has been freshened up since she finished sixth over 905m at this track (Dirt) six-and-a-half weeks ago. Anticipating a better run today. VAMONOS CHICAS (2) finished 9 lengths away in eighth at her last appearance over 905m at this track (Dirt) on January 3 after she got a long way back in the run. Worth including in this suitable contest.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Charles Town\",\"state\":\"WV\",\"country\":\"USA\",\"number\":3,\"race_name\":\"Race 3 - Maiden Claiming\",\"time\":\"2026-01-15T01:08:00Z\",\"class\":\"MDN CLM\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":18535},\"localised_prizemonies\":{\"AUD\":{\"1st\":11677,\"2nd\":3707,\"3rd\":1854,\"4th\":1297,\"total_value\":18535},\"NZD\":{\"1st\":13545,\"2nd\":4300,\"3rd\":2151,\"4th\":1505,\"total_value\":21501}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"Dirt\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "BOURBON AND BEAUTY (6) is yet to break through in five runs. Finished sixth at her last appearance over 905m at this track (Dirt) on January 3 after she gave away a big start. Finds a suitable assignment this time and is a great chance to break through. GORTREAGH GAL (9) failed to figure again last time over 1308m at this track (Dirt), beaten 23 lengths into seventh. Capable of playing a major role on her best form. CRUZIN VAN NUYS (3) has been freshened up since she finished sixth over 905m at this track (Dirt) six-and-a-half weeks ago. Anticipating a better run today. VAMONOS CHICAS (2) finished 9 lengths away in eighth at her last appearance over 905m at this track (Dirt) on January 3 after she got a long way back in the run. Worth including in this suitable contest."
+        },
+        "venue_id": "e1edc2d2-bb8f-4ff4-ab56-0816135ca399",
+        "venue_name": "Charles Town",
+        "venue_state": "WV",
+        "venue_country": "USA"
+      },
+      "4f84d879-2506-442f-8a3e-577b7e74de9f": {
+        "race_id": "4f84d879-2506-442f-8a3e-577b7e74de9f",
+        "race_name": "Ladbrokes Quick Multi",
+        "race_number": 1,
+        "meeting_id": "4ddae6cf-b4aa-46e1-8af3-dcd33830a93d",
+        "meeting_name": "Q Straight",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768439280
+        },
+        "race_form": {
+          "distance": 350,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+            "name": "Overcast",
+            "short_name": "overcast",
+            "icon_uri": "Overcast"
+          },
+          "weather_id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "BONES (5) has an honest record despite remaining a maiden and overdue for a win, having placed three of eight career runs. Tends to run well here despite having never won. Tough to beat if on-song. ZABDON CREAM BUN (1) comes off an average run last start when sixth at this track over 300m behind Bellview Aces (17.25). Remains without a win from the draw but has been in the placings two times from four attempts. Has ability and is one of the better chances. IRON CONDOR (2) has her first outing without a trial but profiles nicely for this. Can kick off with a good run. MR. ASTRONOMICAL (4) is a newcomer from the Adrian Gates kennel. Start all important from the squeeze box. Expected to produce a bold debut.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Q Straight\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":1,\"race_name\":\"Ladbrokes Quick Multi\",\"time\":\"2026-01-15T01:08:00Z\",\"class\":\"Maiden\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":2700},\"localised_prizemonies\":{\"AUD\":{\"1st\":1755,\"2nd\":540,\"3rd\":270,\"4th\":135,\"total_value\":2700},\"NZD\":{\"1st\":2036,\"2nd\":626,\"3rd\":313,\"4th\":157,\"total_value\":3132}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "BONES (5) has an honest record despite remaining a maiden and overdue for a win, having placed three of eight career runs. Tends to run well here despite having never won. Tough to beat if on-song. ZABDON CREAM BUN (1) comes off an average run last start when sixth at this track over 300m behind Bellview Aces (17.25). Remains without a win from the draw but has been in the placings two times from four attempts. Has ability and is one of the better chances. IRON CONDOR (2) has her first outing without a trial but profiles nicely for this. Can kick off with a good run. MR. ASTRONOMICAL (4) is a newcomer from the Adrian Gates kennel. Start all important from the squeeze box. Expected to produce a bold debut."
+        },
+        "venue_id": "5ce0f53d-3f8d-4bd7-9048-ccc94f7cac9b",
+        "venue_name": "Q Straight",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "51a1a178-4d94-4970-9fae-64a1d8dc03a3": {
+        "race_id": "51a1a178-4d94-4970-9fae-64a1d8dc03a3",
+        "race_name": "Race 8",
+        "race_number": 8,
+        "meeting_id": "a1fc689f-cb9b-4c8c-8949-0abfc189bb60",
+        "meeting_name": "Western Fair Raceway",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1768439340
+        },
+        "race_form": {
+          "distance": 1609,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "YES (4) was disappointing last start when 9 metres from the winner in seventh over 1609m at this track. Best form reference might be his win at this track four starts back. Meets a similar line up and he can make amends. ALLSTAR GOLDI (5) ran third last start at this track over 1609m, beaten 5 metres. Expecting a very good run. WORKINITONBROADWAY (7) is worth plenty of thought off a last-start win by half a metre at this track over 1609m. FORBIDDEN TREASURE (6) is better than his last-start eighth over 1609m at this track.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Western Fair Raceway\",\"state\":\"ON\",\"country\":\"CA\",\"number\":8,\"race_name\":\"Race 8\",\"time\":\"2026-01-15T01:09:00Z\",\"class\":\"\",\"start_type\":\"Mobile\",\"prizemonies\":{\"total_value\":8188},\"localised_prizemonies\":{\"AUD\":{\"total_value\":8188},\"NZD\":{\"total_value\":9498}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"T\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "YES (4) was disappointing last start when 9 metres from the winner in seventh over 1609m at this track. Best form reference might be his win at this track four starts back. Meets a similar line up and he can make amends. ALLSTAR GOLDI (5) ran third last start at this track over 1609m, beaten 5 metres. Expecting a very good run. WORKINITONBROADWAY (7) is worth plenty of thought off a last-start win by half a metre at this track over 1609m. FORBIDDEN TREASURE (6) is better than his last-start eighth over 1609m at this track."
+        },
+        "venue_id": "9f90b14e-580d-4106-94fb-f29363df4a4b",
+        "venue_name": "Western Fair Raceway",
+        "venue_state": "ON",
+        "venue_country": "CA"
+      },
+      "5313c543-439c-4055-8a7c-225edabd34a8": {
+        "race_id": "5313c543-439c-4055-8a7c-225edabd34a8",
+        "race_name": "Klaassens Contractors Maiden Stake Pr2 Division1",
+        "race_number": 1,
+        "meeting_id": "5d9b3708-9ce4-4d83-9e56-5ee844de0501",
+        "meeting_name": "Mount Gambier",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768439520
+        },
+        "race_form": {
+          "distance": 305,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+            "name": "Overcast",
+            "short_name": "overcast",
+            "icon_uri": "Overcast"
+          },
+          "weather_id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "PRESSURE POINT (1) produced a modest effort most recently when fifth at Angle Park over 342m behind If I Could (20.90) in a Maiden. Can atone. LINDA LOU (6) made it two minor placings on the trot when beaten third (18.49) in a Maiden at this track last time out. Rates a winning chance on best. SAINT ELLA (8) copped a check in the run and boxed on to place when a 4 length second (18.37) in a Maiden at this track. Rates a key player. COMPTON BLUE (4) should bounce back after an unplaced effort here recently.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Mount Gambier\",\"state\":\"SA\",\"country\":\"AUS\",\"number\":1,\"race_name\":\"Klaassens Contractors Maiden Stake Pr2 Division1\",\"time\":\"2026-01-15T01:12:00Z\",\"class\":\"Maiden\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":970},\"localised_prizemonies\":{\"AUD\":{\"1st\":525,\"2nd\":180,\"3rd\":145,\"4th\":120,\"total_value\":970},\"NZD\":{\"1st\":609,\"2nd\":209,\"3rd\":168,\"4th\":139,\"total_value\":1125}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "PRESSURE POINT (1) produced a modest effort most recently when fifth at Angle Park over 342m behind If I Could (20.90) in a Maiden. Can atone. LINDA LOU (6) made it two minor placings on the trot when beaten third (18.49) in a Maiden at this track last time out. Rates a winning chance on best. SAINT ELLA (8) copped a check in the run and boxed on to place when a 4 length second (18.37) in a Maiden at this track. Rates a key player. COMPTON BLUE (4) should bounce back after an unplaced effort here recently."
+        },
+        "venue_id": "ee0a708d-fb8a-424d-a37f-742b08540713",
+        "venue_name": "Mount Gambier",
+        "venue_state": "SA",
+        "venue_country": "AUS"
+      },
+      "54e5fc88-3f92-44a1-a294-cf1d89983d40": {
+        "race_id": "54e5fc88-3f92-44a1-a294-cf1d89983d40",
+        "race_name": "Ladbrokes Same Race Multi Maiden",
+        "race_number": 1,
+        "meeting_id": "1c134adb-cc43-4d48-8705-123b0b865122",
+        "meeting_name": "Richmond Straight",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768439040
+        },
+        "race_form": {
+          "distance": 324,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+            "name": "Fine",
+            "short_name": "fine",
+            "icon_uri": "Fine"
+          },
+          "weather_id": "01994c9e-3b74-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "HUMBLE LOMAR (2) is yet to win in seven starts but been in the minors. Comes out of a solid form race last start. Has winning claims on his best figures. UNO BRUNO (4) comes off an average run last start when sixth at this track over 324m behind Tornado Ethics (18.14). Has ability and is one of the better chances. HARD YARDS (6) filled a minor placing last start at this track behind Don't Brew It (18.37) in a Maiden. Has the pace to be prominent. Must be included in calculations. CURIOUS TEARS (8) can return to form after missing the top-three at this circuit last time out.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Richmond Straight\",\"state\":\"NSW\",\"country\":\"AUS\",\"number\":1,\"race_name\":\"Ladbrokes Same Race Multi Maiden\",\"time\":\"2026-01-15T01:04:00Z\",\"class\":\"Maiden\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":1865},\"localised_prizemonies\":{\"AUD\":{\"1st\":1200,\"2nd\":340,\"3rd\":250,\"4th\":75,\"total_value\":1865},\"NZD\":{\"1st\":1392,\"2nd\":394,\"3rd\":290,\"4th\":87,\"total_value\":2163}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "HUMBLE LOMAR (2) is yet to win in seven starts but been in the minors. Comes out of a solid form race last start. Has winning claims on his best figures. UNO BRUNO (4) comes off an average run last start when sixth at this track over 324m behind Tornado Ethics (18.14). Has ability and is one of the better chances. HARD YARDS (6) filled a minor placing last start at this track behind Don't Brew It (18.37) in a Maiden. Has the pace to be prominent. Must be included in calculations. CURIOUS TEARS (8) can return to form after missing the top-three at this circuit last time out."
+        },
+        "venue_id": "719b1b21-d6ab-4592-991d-31f81ecb3be6",
+        "venue_name": "Richmond Straight",
+        "venue_state": "NSW",
+        "venue_country": "AUS"
+      },
+      "5aca2946-455a-4c57-9906-97c46a31a1aa": {
+        "race_id": "5aca2946-455a-4c57-9906-97c46a31a1aa",
+        "race_name": "5F Stakes",
+        "race_number": 6,
+        "meeting_id": "302b84b8-9aab-4e48-b4f0-1f8912f58883",
+        "meeting_name": "Delta Downs",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1768439580
+        },
+        "race_form": {
+          "distance": 1006,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+            "name": "Fast",
+            "short_name": "fast"
+          },
+          "track_condition_id": "1db9cab0-b747-11ea-80cf-6a390f79827e",
+          "race_comment": "TEXAS TOWN (2) met with solid support when resuming last start over 1207m at Fairgrounds (Dirt) when third, beaten 9 lengths. Certainly deserves another chance. FLAME ROCK FIRE (5) has switched yards since scoring by half a length at this track over 1006m on December 18. One of the better hopes. BABY'S LAST DANCE (3) failed to run a strong 1207m last start after a close second over 1006m at this track (Dirt) the run prior. Better suited at this shorter trip so capable of a return to form. DONEGAL MOONSHINE (6) did very well to fill a minor placing when resuming at this track but raced below expectations last time over 1006m at this track (Dirt), finishing eighth and beaten 7 lengths. Nicely placed to turn things around.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Delta Downs\",\"state\":\"LA\",\"country\":\"USA\",\"number\":6,\"race_name\":\"5F Stakes\",\"time\":\"2026-01-15T01:13:00Z\",\"class\":\"CLM\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":21674},\"localised_prizemonies\":{\"AUD\":{\"total_value\":21674},\"NZD\":{\"total_value\":25142}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"Dirt\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "TEXAS TOWN (2) met with solid support when resuming last start over 1207m at Fairgrounds (Dirt) when third, beaten 9 lengths. Certainly deserves another chance. FLAME ROCK FIRE (5) has switched yards since scoring by half a length at this track over 1006m on December 18. One of the better hopes. BABY'S LAST DANCE (3) failed to run a strong 1207m last start after a close second over 1006m at this track (Dirt) the run prior. Better suited at this shorter trip so capable of a return to form. DONEGAL MOONSHINE (6) did very well to fill a minor placing when resuming at this track but raced below expectations last time over 1006m at this track (Dirt), finishing eighth and beaten 7 lengths. Nicely placed to turn things around."
+        },
+        "venue_id": "097760c6-119c-478b-811a-aac894fdc993",
+        "venue_name": "Delta Downs",
+        "venue_state": "LA",
+        "venue_country": "USA"
+      },
+      "bd964ac0-7c27-475a-897a-cd8d41398538": {
+        "race_id": "bd964ac0-7c27-475a-897a-cd8d41398538",
+        "race_name": "SPORTSBOWL FUNCTION CENTRE SPRINT PBD",
+        "race_number": 8,
+        "meeting_id": "50943e42-a33b-4700-9112-31077a4f7334",
+        "meeting_name": "Manukau",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768439760
+        },
+        "race_form": {
+          "distance": 318,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "60380761-e046-11e7-9984-06a96a561a68",
+            "name": "Showery",
+            "short_name": "showery",
+            "icon_uri": "Showery"
+          },
+          "weather_id": "60380761-e046-11e7-9984-06a96a561a68",
+          "race_comment": "SMOKING IVAN (2) was in the placings last time but prior to that he posted an exceptional 22.43 win over 390m at Ascot Park. Has been racing against the top sprinters down south and performing with merit. Rates a top chance if runs up to time two back. HONCHO (7) is progressing well and looks close to another win after hitting the frame from Box 6 last run (18.81) at this track. Is an average beginner but does savage the line late. Expected to be in the finish again. BUBBLES TONIGHT (5) missed the frame last time but had been racing well prior to that, winning a Class 5 three back before a placing at Addington the following run. Having her first run at this venue but is a strong chance if she can handle the track.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Manukau\",\"state\":\"NZ\",\"country\":\"NZ\",\"number\":8,\"race_name\":\"SPORTSBOWL FUNCTION CENTRE SPRINT PBD\",\"time\":\"2026-01-15T01:16:00Z\",\"class\":\"C5\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":4051},\"localised_prizemonies\":{\"AUD\":{\"total_value\":4273},\"NZD\":{\"total_value\":4700}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"Grade\",\"gait\":\"\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "SMOKING IVAN (2) was in the placings last time but prior to that he posted an exceptional 22.43 win over 390m at Ascot Park. Has been racing against the top sprinters down south and performing with merit. Rates a top chance if runs up to time two back. HONCHO (7) is progressing well and looks close to another win after hitting the frame from Box 6 last run (18.81) at this track. Is an average beginner but does savage the line late. Expected to be in the finish again. BUBBLES TONIGHT (5) missed the frame last time but had been racing well prior to that, winning a Class 5 three back before a placing at Addington the following run. Having her first run at this venue but is a strong chance if she can handle the track."
+        },
+        "venue_id": "07c0f0d2-6d9c-49c5-aca7-b87fe11c2399",
+        "venue_name": "Manukau",
+        "venue_state": "NZ",
+        "venue_country": "NZ"
+      },
+      "d180d083-954b-4844-80e9-0b51f3240308": {
+        "race_id": "d180d083-954b-4844-80e9-0b51f3240308",
+        "race_name": "Race 6 - 1609M",
+        "race_number": 6,
+        "meeting_id": "5b78ecf4-06f5-4cc7-a625-93b6c3da5b73",
+        "meeting_name": "Northfield Park",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1768438680
+        },
+        "race_form": {
+          "distance": 1609,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "1706d200-a75b-11e7-96c3-0656c85e309e",
+            "name": "Slow",
+            "short_name": "slow"
+          },
+          "track_condition_id": "1706d200-a75b-11e7-96c3-0656c85e309e",
+          "weather": {
+            "id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+            "name": "Overcast",
+            "short_name": "overcast",
+            "icon_uri": "Overcast"
+          },
+          "weather_id": "0b43a420-3b75-11e8-a5eb-06a5c6d9a756",
+          "race_comment": "LOUS GAMBLER (3) drew wide last start and was safely held, beaten 24 metres into fifth at this track over 1609m. From this far better draw can take this out. SHADY MAPLE ALSTAR (2) finished sixth last start over 1609m at this track, beaten 35 metres, after finishing third at this track the run prior. No excuses from this advantageous draw. Finds a nice race and can bounce straight back to form. GLOBE MASTER (5) is better than his last-start seventh over 1609m at this track. KING FELIX (4) is worth some thought despite his last-start seventh over 1609m at this track on January 6.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Northfield Park\",\"state\":\"OH\",\"country\":\"USA\",\"number\":6,\"race_name\":\"Race 6 - 1609M\",\"time\":\"2026-01-15T00:58:00Z\",\"class\":\"NW3500L4\",\"start_type\":\"Mobile\",\"prizemonies\":{\"total_value\":13154},\"localised_prizemonies\":{\"AUD\":{\"total_value\":13154},\"NZD\":{\"total_value\":15259}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"T\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "LOUS GAMBLER (3) drew wide last start and was safely held, beaten 24 metres into fifth at this track over 1609m. From this far better draw can take this out. SHADY MAPLE ALSTAR (2) finished sixth last start over 1609m at this track, beaten 35 metres, after finishing third at this track the run prior. No excuses from this advantageous draw. Finds a nice race and can bounce straight back to form. GLOBE MASTER (5) is better than his last-start seventh over 1609m at this track. KING FELIX (4) is worth some thought despite his last-start seventh over 1609m at this track on January 6."
+        },
+        "venue_id": "562f0f79-ecf3-4c04-805c-4d074ab7965e",
+        "venue_name": "Northfield Park",
+        "venue_state": "OH",
+        "venue_country": "USA"
+      }
+    }
+  },
+  "message": "Next 10 races from each category"
+}

@@ -1,0 +1,411 @@
+{
+  "status": 200,
+  "data": {
+    "next_to_go_ids": [
+      "a2fbdfdf-475b-4b93-bb65-353cd26ee42e",
+      "9d77032a-7d5e-415d-b10a-cda7c6fc6eba",
+      "64c5cb61-4062-4f7a-a509-a31f10ca8603",
+      "6f9d67d2-3326-42e5-b251-f40806b9636a",
+      "f69a2a5c-6b56-46b5-8d71-388da6a13a3b",
+      "a74b0272-c455-4e04-b4c9-0a0b0fb2d0c4",
+      "57936420-52c2-489a-8698-cbbbeb41cc41",
+      "3ae20618-99d5-4b2a-9bdd-6bf8d983adbf",
+      "736a5860-7b10-40e6-bcf7-7d48940b0e49",
+      "11900ef6-e109-4fd2-a69c-c6a5084e5a27"
+    ],
+    "race_summaries": {
+      "11900ef6-e109-4fd2-a69c-c6a5084e5a27": {
+        "race_id": "11900ef6-e109-4fd2-a69c-c6a5084e5a27",
+        "race_name": "Easter Festival April 4Th - 6Th Rated Novice Hurdle",
+        "race_number": 3,
+        "meeting_id": "18cc5b1f-6b70-42b4-aa7c-08a408f062b0",
+        "meeting_name": "Fairyhouse",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1768481880
+        },
+        "race_form": {
+          "distance": 4023,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
+            "name": "Soft",
+            "short_name": "soft"
+          },
+          "track_condition_id": "906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
+          "weather": {
+            "id": "ffd5206f-16c4-4772-b9ac-9d3b6fc0686d",
+            "name": "Ocast",
+            "short_name": "ocast"
+          },
+          "weather_id": "ffd5206f-16c4-4772-b9ac-9d3b6fc0686d",
+          "race_comment": "STICWITHTHEPROCESS (4) placed at Punchestown last time. More impressive when a 1.75L winner at this track on reappearance while having run here three times is yet to miss the frame. Clearly enjoys the venue and could take beating once more. HERON'S BUTLER (3) won at Thurles two starts back and then produced another highly creditable effort when 1.25L second back there last time. Clearly in great form at present and set to give another bold showing. COYOTE SPIRIT (1) was a 4L third in a competitive Leopardstown handicap attempting latest. That form reads well and is easy to fancy.  NELSON MUNTZ (2) stayed on for a 2L fourth at Leopardstown. That was good and the extra journey here will suit. Genuine threat to all.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Fairyhouse\",\"state\":\"IRL\",\"country\":\"IRE\",\"number\":3,\"race_name\":\"Easter Festival April 4Th - 6Th Rated Novice Hurdle\",\"time\":\"2026-01-15T12:58:00Z\",\"class\":\"NOVHDLE\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":26752},\"localised_prizemonies\":{\"AUD\":{\"1st\":17213,\"2nd\":5543,\"3rd\":2626,\"4th\":1167,\"5th\":584,\"6th\":292,\"total_value\":26752},\"NZD\":{\"1st\":19967,\"2nd\":6430,\"3rd\":3046,\"4th\":1354,\"5th\":677,\"6th\":339,\"total_value\":31032}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"Turf\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "STICWITHTHEPROCESS (4) placed at Punchestown last time. More impressive when a 1.75L winner at this track on reappearance while having run here three times is yet to miss the frame. Clearly enjoys the venue and could take beating once more. HERON'S BUTLER (3) won at Thurles two starts back and then produced another highly creditable effort when 1.25L second back there last time. Clearly in great form at present and set to give another bold showing. COYOTE SPIRIT (1) was a 4L third in a competitive Leopardstown handicap attempting latest. That form reads well and is easy to fancy.  NELSON MUNTZ (2) stayed on for a 2L fourth at Leopardstown. That was good and the extra journey here will suit. Genuine threat to all."
+        },
+        "venue_id": "2c06b5db-6710-415b-b16f-677654df3000",
+        "venue_name": "Fairyhouse",
+        "venue_state": "IRL",
+        "venue_country": "IRE"
+      },
+      "3ae20618-99d5-4b2a-9bdd-6bf8d983adbf": {
+        "race_id": "3ae20618-99d5-4b2a-9bdd-6bf8d983adbf",
+        "race_name": "Prix D'erbray - Attele",
+        "race_number": 1,
+        "meeting_id": "c128852c-0ee1-4c7e-b756-35b7ba97fe0a",
+        "meeting_name": "Vincennes",
+        "category_id": "161d9be2-e909-4326-8c2c-35ed71fb460b",
+        "advertised_start": {
+          "seconds": 1768481700
+        },
+        "race_form": {
+          "distance": 2100,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "187e38d4-ab03-11e7-85e3-0641c90711b8",
+            "name": "Showers",
+            "short_name": "showers",
+            "icon_uri": "Showers"
+          },
+          "weather_id": "187e38d4-ab03-11e7-85e3-0641c90711b8",
+          "race_comment": "Mahrajah gelding TURE L.A. (6) followed up a win at Aby with a 3.5L third at Solvalla. Selected to register the twentieth success of his career. The winner of fifteen of his thirty seven previous starts CHITCHAT (1) performed well finishing 1.75L clear of his nearest rival at this circuit. Warrants thought as expected to play a role. CHESTNUT (13) looks nicely placed to deliver a big effort heading into this event on the back of a 3L fourth at this course. Veteran Look de Star gelding FORREST GUMP SET (8) produced a 12L sixth contesting a Class D event on his first start of  2026. Looks up to providing another big effort.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Vincennes\",\"state\":\"FR\",\"country\":\"FR\",\"number\":1,\"race_name\":\"Prix D'erbray - Attele\",\"time\":\"2026-01-15T12:55:00Z\",\"class\":\"D241 RST E\",\"start_type\":\"Mobile\",\"prizemonies\":{\"total_value\":103509},\"localised_prizemonies\":{\"AUD\":{\"total_value\":103509},\"NZD\":{\"total_value\":120070}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"H\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "Mahrajah gelding TURE L.A. (6) followed up a win at Aby with a 3.5L third at Solvalla. Selected to register the twentieth success of his career. The winner of fifteen of his thirty seven previous starts CHITCHAT (1) performed well finishing 1.75L clear of his nearest rival at this circuit. Warrants thought as expected to play a role. CHESTNUT (13) looks nicely placed to deliver a big effort heading into this event on the back of a 3L fourth at this course. Veteran Look de Star gelding FORREST GUMP SET (8) produced a 12L sixth contesting a Class D event on his first start of  2026. Looks up to providing another big effort."
+        },
+        "venue_id": "cb17689b-25a1-47f3-ab2a-5abba13fc281",
+        "venue_name": "Vincennes",
+        "venue_state": "FR",
+        "venue_country": "FR"
+      },
+      "57936420-52c2-489a-8698-cbbbeb41cc41": {
+        "race_id": "57936420-52c2-489a-8698-cbbbeb41cc41",
+        "race_name": "Race 7",
+        "race_number": 7,
+        "meeting_id": "cd135cde-98d6-4ebf-b478-8aba879cc941",
+        "meeting_name": "Kinsley Bags",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768481640
+        },
+        "race_form": {
+          "distance": 268,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "MANSY (3) finds it hard to win. Better run when finding the frame last time though, finishing second (16.88) at this track. Has a good record at this journey. Top prospect. SWIFT LENA (4) followed a moderate fourth at this track two runs ago with another plain effort last time to finish fifth, beaten 5.5 lengths, in a D3 at this track over 268m (17.01). Well placed here and gets chance to atone. VICS CHLOE (6) turned in a plain performance last time when sixth at this track over 462m behind Grumpy Mia (29.80) in an A8. Can measure up this time. CACTUS CLOSEDOWN (5) followed a moderate fifth at this track two runs ago with another plain effort last time to finish fifth, beaten 3.5 lengths, in a D3 at this track over 268m (16.74). This easier and can improve sharply.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Kinsley Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":7,\"race_name\":\"Race 7\",\"time\":\"2026-01-15T12:54:00Z\",\"class\":\"D4\",\"start_type\":\"\",\"prizemonies\":{\"1st\":80,\"2nd\":37,\"total_value\":533},\"localised_prizemonies\":{\"AUD\":{\"1st\":161,\"2nd\":74,\"3rd\":74,\"4th\":74,\"5th\":74,\"6th\":74,\"total_value\":533},\"NZD\":{\"1st\":187,\"2nd\":86,\"3rd\":86,\"4th\":86,\"5th\":86,\"6th\":86,\"total_value\":618}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "MANSY (3) finds it hard to win. Better run when finding the frame last time though, finishing second (16.88) at this track. Has a good record at this journey. Top prospect. SWIFT LENA (4) followed a moderate fourth at this track two runs ago with another plain effort last time to finish fifth, beaten 5.5 lengths, in a D3 at this track over 268m (17.01). Well placed here and gets chance to atone. VICS CHLOE (6) turned in a plain performance last time when sixth at this track over 462m behind Grumpy Mia (29.80) in an A8. Can measure up this time. CACTUS CLOSEDOWN (5) followed a moderate fifth at this track two runs ago with another plain effort last time to finish fifth, beaten 3.5 lengths, in a D3 at this track over 268m (16.74). This easier and can improve sharply."
+        },
+        "venue_id": "a7a87e51-8314-454f-afc4-3f27b22eb7d9",
+        "venue_name": "Kinsley Bags",
+        "venue_state": "UK",
+        "venue_country": "UK"
+      },
+      "64c5cb61-4062-4f7a-a509-a31f10ca8603": {
+        "race_id": "64c5cb61-4062-4f7a-a509-a31f10ca8603",
+        "race_name": "Border Minstrel Sunday Lunch Novices' Handicap Chase (Gbb Race)",
+        "race_number": 3,
+        "meeting_id": "17ba17f0-3bb6-4692-b5e1-7c5e4ba82597",
+        "meeting_name": "Newcastle",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1768481400
+        },
+        "race_form": {
+          "distance": 4040,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
+            "name": "Soft",
+            "short_name": "soft"
+          },
+          "track_condition_id": "906cd562-a37c-11e7-a5c6-0ab32e6ac8d2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "FAT HARRY (6) is racing consistently with two wins and four placed efforts past six starts including placing second contesting a Haydock Park handicap chase. Holds winning course and distance form. May go one better. MOON PHASES (5) improved on a fourth making seasonal reappearance in a novice hurdle at Ayr before placing second on chase debut at Kelso losing out by a neck. Will be thereabouts. JOECOOKER (2) finished runner-up on most recent appearance attempting a Wetherby handicap chase. Not discounted. POWEROFJET (8) makes some attraction from bottom of the weights after winning by 2.75L a course handicap chase. Something for the Multiples: QUANTOCK HILLS (4)",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Newcastle\",\"state\":\"GBR\",\"country\":\"UK\",\"number\":3,\"race_name\":\"Sky Sports Racing Virgin 519 Novices' Handicap Chase (Gbb Race)\",\"time\":\"2026-01-15T12:50:00Z\",\"class\":\"HCP CHSE, C4\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":16420},\"localised_prizemonies\":{\"AUD\":{\"1st\":9457,\"2nd\":4352,\"3rd\":2175,\"4th\":1089,\"5th\":543,\"total_value\":16420},\"NZD\":{\"1st\":10970,\"2nd\":5048,\"3rd\":2523,\"4th\":1263,\"5th\":630,\"total_value\":19047}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"Turf\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "FAT HARRY (6) is racing consistently with two wins and four placed efforts past six starts including placing second contesting a Haydock Park handicap chase. Holds winning course and distance form. May go one better. MOON PHASES (5) improved on a fourth making seasonal reappearance in a novice hurdle at Ayr before placing second on chase debut at Kelso losing out by a neck. Will be thereabouts. JOECOOKER (2) finished runner-up on most recent appearance attempting a Wetherby handicap chase. Not discounted. POWEROFJET (8) makes some attraction from bottom of the weights after winning by 2.75L a course handicap chase. Something for the Multiples: QUANTOCK HILLS (4)"
+        },
+        "venue_id": "085b4a8d-7123-4afe-9b81-84268f5e4fbe",
+        "venue_name": "Newcastle",
+        "venue_state": "GBR",
+        "venue_country": "UK"
+      },
+      "6f9d67d2-3326-42e5-b251-f40806b9636a": {
+        "race_id": "6f9d67d2-3326-42e5-b251-f40806b9636a",
+        "race_name": "Retired Greyhounds Make Great Pets Stakes",
+        "race_number": 7,
+        "meeting_id": "ade09a87-b0bb-4def-abeb-6cd385c79820",
+        "meeting_name": "Nottingham Bags",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768481400
+        },
+        "race_form": {
+          "distance": 500,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "race_comment": "PHOENIX COWBOY (5) drew the outside trap and was game in defeat when only 2 lengths from the winner Skyfall Martin (30.24) at this track. Winning claims. RATHCOOLE REDS (6) hit the frame last time at this track but just a few starts ago ran slick time when scoring over 500m at this track in 30.16. Expecting another bold showing. GLIDEAWAY FEVER (4) flew around 500m at this track in 30.33 three back then has been in the money the last two since. Must include on winning run three back. HARLEQUIN COOLIO (2) gets a chance to improve on an unplaced run at his latest outing at this circuit.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Nottingham Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":7,\"race_name\":\"Retired Greyhounds Make Great Pets Stakes\",\"time\":\"2026-01-15T12:50:00Z\",\"class\":\"A2\",\"start_type\":\"\",\"prizemonies\":{\"1st\":165,\"2nd\":60,\"total_value\":936},\"localised_prizemonies\":{\"AUD\":{\"1st\":332,\"2nd\":121,\"3rd\":121,\"4th\":121,\"5th\":121,\"6th\":121,\"total_value\":936},\"NZD\":{\"1st\":385,\"2nd\":140,\"3rd\":140,\"4th\":140,\"5th\":140,\"6th\":140,\"total_value\":1086}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "PHOENIX COWBOY (5) drew the outside trap and was game in defeat when only 2 lengths from the winner Skyfall Martin (30.24) at this track. Winning claims. RATHCOOLE REDS (6) hit the frame last time at this track but just a few starts ago ran slick time when scoring over 500m at this track in 30.16. Expecting another bold showing. GLIDEAWAY FEVER (4) flew around 500m at this track in 30.33 three back then has been in the money the last two since. Must include on winning run three back. HARLEQUIN COOLIO (2) gets a chance to improve on an unplaced run at his latest outing at this circuit."
+        },
+        "venue_id": "636a41e4-d85c-42e8-931c-f9a4f7ec013b",
+        "venue_name": "Nottingham Bags",
+        "venue_state": "UK",
+        "venue_country": "UK"
+      },
+      "736a5860-7b10-40e6-bcf7-7d48940b0e49": {
+        "race_id": "736a5860-7b10-40e6-bcf7-7d48940b0e49",
+        "race_name": "We Stand With Tasmania",
+        "race_number": 11,
+        "meeting_id": "4b2b40cb-acb9-4006-8c95-2621f590376c",
+        "meeting_name": "Mandurah",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768481760
+        },
+        "race_form": {
+          "distance": 300,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "DOUBLE STREAMER (2) settled down midfield and held her position to the line when finishing 4th (16.45) at Cannington. Solid record here at the distance winning two races. Form from her last run is proving strong. Better than the latest run and deserves another chance. BRUISER MY UNCLE (1) sprung the lids and on speed throughout before being run over late when fourth (23.24) at this track over 400m. Has the ability to give this a shake. ON BOARD (7) comes off an average run last start when eighth at this track over 300m behind Gettin' Tipsy (18.00) in a Grade 6. Should be in this for a long way. ZEZE DAWN (3) looks an each-way chance.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Mandurah\",\"state\":\"WA\",\"country\":\"AUS\",\"number\":11,\"race_name\":\"We Stand With Tasmania\",\"time\":\"2026-01-15T12:56:00Z\",\"class\":\"LS6\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":1976},\"localised_prizemonies\":{\"AUD\":{\"1st\":1307,\"2nd\":399,\"3rd\":200,\"4th\":70,\"total_value\":1976},\"NZD\":{\"1st\":1516,\"2nd\":463,\"3rd\":232,\"4th\":81,\"total_value\":2292}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "DOUBLE STREAMER (2) settled down midfield and held her position to the line when finishing 4th (16.45) at Cannington. Solid record here at the distance winning two races. Form from her last run is proving strong. Better than the latest run and deserves another chance. BRUISER MY UNCLE (1) sprung the lids and on speed throughout before being run over late when fourth (23.24) at this track over 400m. Has the ability to give this a shake. ON BOARD (7) comes off an average run last start when eighth at this track over 300m behind Gettin' Tipsy (18.00) in a Grade 6. Should be in this for a long way. ZEZE DAWN (3) looks an each-way chance."
+        },
+        "venue_id": "3c08f985-daf2-4cf4-b15e-4a472d81acf4",
+        "venue_name": "Mandurah",
+        "venue_state": "WA",
+        "venue_country": "AUS"
+      },
+      "9d77032a-7d5e-415d-b10a-cda7c6fc6eba": {
+        "race_id": "9d77032a-7d5e-415d-b10a-cda7c6fc6eba",
+        "race_name": "Race 7",
+        "race_number": 7,
+        "meeting_id": "b3035e22-3a6f-40ce-a233-446c286ada0c",
+        "meeting_name": "Sheffield Bags",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768481220
+        },
+        "race_form": {
+          "distance": 500,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+            "name": "OCAST",
+            "short_name": "ocast",
+            "icon_uri": "OCAST"
+          },
+          "weather_id": "5ba75165-3cec-11eb-88bb-36fbfdf5d97f",
+          "race_comment": "ON THE BEACH (6) has a strong record this track and trip including two wins from four starts. Placed last time (16.62) at this track in a D3, finishing third and beaten 1.0 lengths. Appeals as a leading chance in this. DANIEL IS HERE (1) is heading the right way. In the minors two back with a second then scored by 0.8 lengths in an A6 last time at this track over 500m (29.74). Up a grade but hard to fault on that latest effort. A real threat again. JOLLY ARLO (4) is a last start placegetter in an A5, jumping from this trap and finishing a 3 length third over 500m at this track. Boasts a strong record off this same box, including two wins and seven placings from 13 starts. Worth following up. DA SAFETY NET (3) is heading the right way. In the minors two back with a third then scored by 1.3 lengths in an A6 last time at this track over 500m (29.75). Facing tougher but in form and not to be underestimated.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Sheffield Bags\",\"state\":\"UK\",\"country\":\"UK\",\"number\":7,\"race_name\":\"Race 7\",\"time\":\"2026-01-15T12:47:00Z\",\"class\":\"A5\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":744},\"localised_prizemonies\":{\"AUD\":{\"1st\":241,\"2nd\":101,\"3rd\":101,\"4th\":101,\"5th\":101,\"6th\":101,\"total_value\":744},\"NZD\":{\"1st\":280,\"2nd\":117,\"3rd\":117,\"4th\":117,\"5th\":117,\"6th\":117,\"total_value\":863}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "ON THE BEACH (6) has a strong record this track and trip including two wins from four starts. Placed last time (16.62) at this track in a D3, finishing third and beaten 1.0 lengths. Appeals as a leading chance in this. DANIEL IS HERE (1) is heading the right way. In the minors two back with a second then scored by 0.8 lengths in an A6 last time at this track over 500m (29.74). Up a grade but hard to fault on that latest effort. A real threat again. JOLLY ARLO (4) is a last start placegetter in an A5, jumping from this trap and finishing a 3 length third over 500m at this track. Boasts a strong record off this same box, including two wins and seven placings from 13 starts. Worth following up. DA SAFETY NET (3) is heading the right way. In the minors two back with a third then scored by 1.3 lengths in an A6 last time at this track over 500m (29.75). Facing tougher but in form and not to be underestimated."
+        },
+        "venue_id": "764e58a3-a0d2-4b09-b6a4-db218606f7d5",
+        "venue_name": "Sheffield Bags",
+        "venue_state": "UK",
+        "venue_country": "UK"
+      },
+      "a2fbdfdf-475b-4b93-bb65-353cd26ee42e": {
+        "race_id": "a2fbdfdf-475b-4b93-bb65-353cd26ee42e",
+        "race_name": "Box 1 Photography",
+        "race_number": 12,
+        "meeting_id": "34cb2597-e97c-42d4-b1c1-85f0a408f16d",
+        "meeting_name": "Q2 Parklands",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768481100
+        },
+        "race_form": {
+          "distance": 520,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+            "name": "Good",
+            "short_name": "good"
+          },
+          "track_condition_id": "10a14653-a33d-11e7-810d-0a1a4ae29bd2",
+          "weather": {
+            "id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+            "name": "FINE",
+            "short_name": "fine",
+            "icon_uri": "FINE"
+          },
+          "weather_id": "08e5f78c-1a36-11eb-9269-cef03e67f1a3",
+          "race_comment": "HARA'S HONDA (7) has a strong record this trip with three wins and two placings from eight starts. Placed last time (30.21) at this track in a Mix 5, finishing third and beaten 9 lengths. Looks suited and should go close. NO MORE GAMES (3) wound up strongly to score two back then did the same last time but could manage only a placing, finishing on late when second (29.87) in a Mix 5 at this track. Has a good record at this journey. Remains without a win from the draw but has been in the placings four times from eight attempts. Hard to beat again. MISS DARKSIDE (2) has ability and can feature with the right run after missing a cheque here most recently. Something for the Multiples: SHINE A LIGHT (6)",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Q2 Parklands\",\"state\":\"QLD\",\"country\":\"AUS\",\"number\":12,\"race_name\":\"Box 1 Photography\",\"time\":\"2026-01-15T12:45:00Z\",\"class\":\"M5\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":9000},\"localised_prizemonies\":{\"AUD\":{\"1st\":5850,\"2nd\":1800,\"3rd\":900,\"4th\":450,\"total_value\":9000},\"NZD\":{\"1st\":6786,\"2nd\":2088,\"3rd\":1044,\"4th\":522,\"total_value\":10440}},\"rail_position\":\"\",\"track_direction\":\"Left\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"Gallop\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "HARA'S HONDA (7) has a strong record this trip with three wins and two placings from eight starts. Placed last time (30.21) at this track in a Mix 5, finishing third and beaten 9 lengths. Looks suited and should go close. NO MORE GAMES (3) wound up strongly to score two back then did the same last time but could manage only a placing, finishing on late when second (29.87) in a Mix 5 at this track. Has a good record at this journey. Remains without a win from the draw but has been in the placings four times from eight attempts. Hard to beat again. MISS DARKSIDE (2) has ability and can feature with the right run after missing a cheque here most recently. Something for the Multiples: SHINE A LIGHT (6)"
+        },
+        "venue_id": "b8acf83a-453f-40e4-8b4e-7f4f6a5c40a9",
+        "venue_name": "Q2 Parklands",
+        "venue_state": "QLD",
+        "venue_country": "AUS"
+      },
+      "a74b0272-c455-4e04-b4c9-0a0b0fb2d0c4": {
+        "race_id": "a74b0272-c455-4e04-b4c9-0a0b0fb2d0c4",
+        "race_name": "525 Yds (A3)",
+        "race_number": 7,
+        "meeting_id": "52888410-a065-48f9-bba5-0728da34dc8d",
+        "meeting_name": "Waterford",
+        "category_id": "9daef0d7-bf3c-4f50-921d-8e818c60fe61",
+        "advertised_start": {
+          "seconds": 1768481640
+        },
+        "race_form": {
+          "distance": 480,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "track_condition": {
+            "id": "9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+            "name": "Synthetic",
+            "short_name": "synthetic"
+          },
+          "track_condition_id": "9d03760c-88d2-4c89-9611-ae6eb7cdb76c",
+          "weather": {
+            "id": "ffd5206f-16c4-4772-b9ac-9d3b6fc0686d",
+            "name": "Ocast",
+            "short_name": "ocast"
+          },
+          "weather_id": "ffd5206f-16c4-4772-b9ac-9d3b6fc0686d",
+          "race_comment": "POULLDARRIG JET (2) has a strong record this track and trip with two wins and two placings from five starts. In the money last time at this track (29.17) in an A4, finishing a nose second. Looks suited and should go close. ALMIGHTY DANNY (4) hit the frame latest (29.91) when second at this track in an A3. Has three wins already from this trap. Among the main chances. SLANEYSIDE BUD (5) is a capable type and proved too strong last time to win by a neck at this track in a handy 29.89 beating Almighty Danny. Expected to measure up again. NANS STARLING (3) was well backed last start but ran below expectations when fourth (29.18), beaten a head. Something for the Multiples: COCO DELUXE (4)",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Waterford\",\"state\":\"IRE\",\"country\":\"IRE\",\"number\":7,\"race_name\":\"525 Yds (A3)\",\"time\":\"2026-01-15T12:54:00Z\",\"class\":\"A3\",\"start_type\":\"\",\"prizemonies\":{\"total_value\":640},\"localised_prizemonies\":{\"AUD\":{\"1st\":456,\"2nd\":114,\"3rd\":70,\"total_value\":640},\"NZD\":{\"1st\":529,\"2nd\":132,\"3rd\":81,\"total_value\":742}},\"rail_position\":\"\",\"track_direction\":\"Right\",\"track_surface\":\"All Weather\",\"group\":\"\",\"gait\":\"\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"racingandsports\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "POULLDARRIG JET (2) has a strong record this track and trip with two wins and two placings from five starts. In the money last time at this track (29.17) in an A4, finishing a nose second. Looks suited and should go close. ALMIGHTY DANNY (4) hit the frame latest (29.91) when second at this track in an A3. Has three wins already from this trap. Among the main chances. SLANEYSIDE BUD (5) is a capable type and proved too strong last time to win by a neck at this track in a handy 29.89 beating Almighty Danny. Expected to measure up again. NANS STARLING (3) was well backed last start but ran below expectations when fourth (29.18), beaten a head. Something for the Multiples: COCO DELUXE (4)"
+        },
+        "venue_id": "9967e496-90ed-4190-9252-224614083ea0",
+        "venue_name": "Waterford",
+        "venue_state": "IRE",
+        "venue_country": "IRE"
+      },
+      "f69a2a5c-6b56-46b5-8d71-388da6a13a3b": {
+        "race_id": "f69a2a5c-6b56-46b5-8d71-388da6a13a3b",
+        "race_name": "1M 1 1/2F Hcap",
+        "race_number": 2,
+        "meeting_id": "9a7131e2-4172-4b4b-94c9-ead551a0f910",
+        "meeting_name": "Pisa",
+        "category_id": "4a2788f8-e825-4d36-9894-efd4baf1cfae",
+        "advertised_start": {
+          "seconds": 1768481400
+        },
+        "race_form": {
+          "distance": 1900,
+          "distance_type": {
+            "id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+            "name": "Metres",
+            "short_name": "m"
+          },
+          "distance_type_id": "570775ae-09ec-42d5-989d-7c8f06366aa7",
+          "race_comment": "MEHMAS MOON (3) Bold effort to win last run at the track and drawn well. Hasn't put a foot wrong this campaign with 2 wins from 2 runs. Prominent showing expected and won't be far off them. QUEEN OF ICE (4) Amongst the placegetters when 2nd last time here and carrying less weight this time. In good racing form since resuming from a spell. Suitably placed in this race. CIUDAD JUAREZ (5) Ran 9th last time at this track. Happy to forgive that run and promising career start. Will try to take advantage of the draw. One of the hopes. PENSIEROSA (6) Got the upper hand late when winning last start at this venue and goes down in weight. Has not missed the money this preparation in 2 attempts. Solid place bet prospects.",
+          "additional_data": "{\"revealed_race_info\":{\"track_name\":\"Pisa\",\"state\":\"ITA\",\"country\":\"ITA\",\"number\":2,\"race_name\":\"1M 1 1/2F Hcap\",\"time\":\"2026-01-15T12:50:00Z\",\"class\":\"handicap=true\",\"start_type\":\"\",\"prizemonies\":null,\"localised_prizemonies\":null,\"rail_position\":\"\",\"track_direction\":\"\",\"track_surface\":\"\",\"group\":\"\",\"gait\":\"\",\"track_home_straight_metres\":0,\"track_circumference\":0,\"race_comment_provider\":\"betmakers\"}}",
+          "generated": 1,
+          "silk_base_url": "drr38safykj6s.cloudfront.net",
+          "race_comment_alternative": "MEHMAS MOON (3) Bold effort to win last run at the track and drawn well. Hasn't put a foot wrong this campaign with 2 wins from 2 runs. Prominent showing expected and won't be far off them. QUEEN OF ICE (4) Amongst the placegetters when 2nd last time here and carrying less weight this time. In good racing form since resuming from a spell. Suitably placed in this race. CIUDAD JUAREZ (5) Ran 9th last time at this track. Happy to forgive that run and promising career start. Will try to take advantage of the draw. One of the hopes. PENSIEROSA (6) Got the upper hand late when winning last start at this venue and goes down in weight. Has not missed the money this preparation in 2 attempts. Solid place bet prospects."
+        },
+        "venue_id": "14eed4a9-0c44-4e08-952e-aad96c41778d",
+        "venue_name": "Pisa",
+        "venue_state": "ITA",
+        "venue_country": "ITA"
+      }
+    }
+  },
+  "message": "Next 10 races from each category"
+}

@@ -9,6 +9,7 @@
     "build": "bun build ./src/index.html --outdir=dist --sourcemap --target=browser --minify --define:process.env.NODE_ENV='\"production\"' --env='BUN_PUBLIC_*'"
   },
   "dependencies": {
+    "msw": "^2.12.7",
     "react": "^19",
     "react-dom": "^19"
   },
@@ -24,5 +25,10 @@
     "eslint-plugin-react-hooks": "^7.0.1",
     "globals": "^17.0.0",
     "typescript-eslint": "^8.53.0"
+  },
+  "msw": {
+    "workerDirectory": [
+      "src"
+    ]
   }
 }

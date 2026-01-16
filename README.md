@@ -13,3 +13,14 @@ Next to go (React)
 [ext-eslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [ext-editorconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [ext-bun]: https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode
+
+Development
+-----------
+
+```sh
+# Start development server. HMR and mocks enabled.
+bun dev
+
+# Start production server. HMR and mocks disabled.
+bun start
+```
