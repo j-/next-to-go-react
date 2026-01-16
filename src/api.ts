@@ -63,8 +63,5 @@ export const getNextRacesOptions = (params = getNextRacesDefaults) => (
         return data.race_summaries[raceId];
       }).filter((race) => race != null);
     },
-
-    // Invalidate and refresh every 30 seconds.
-    refetchInterval: 30_000,
   })
 );

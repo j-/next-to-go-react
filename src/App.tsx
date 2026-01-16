@@ -6,9 +6,12 @@ export const App: FC = () => {
   const {
     error,
     data,
-  } = useQuery(
-    getNextRacesOptions(),
-  );
+  } = useQuery({
+    ...getNextRacesOptions(),
+
+    // Invalidate and refresh every 30 seconds.
+    refetchInterval: 30_000,
+  });
 
   if (error) {
     return (
