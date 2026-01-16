@@ -13,9 +13,9 @@ export const getNextRacesDefaults = {
   count: 10,
 } as const satisfies GetNextRacesParams;
 
-export const getNextRacesQueryKey = (params = getNextRacesDefaults) => (
-  ['nextraces', params]
-);
+export const getNextRacesQueryKey = (
+  params: GetNextRacesParams = getNextRacesDefaults,
+) => ['nextraces', params];
 
 // We can be more specific here and declare IDs as `z.uuid()`, however
 // the application doesn't care about the format of these IDs.
@@ -38,7 +38,9 @@ export const getNextRacesSchema = z.object({
   }),
 });
 
-export const getNextRacesOptions = (params = getNextRacesDefaults) => (
+export const getNextRacesOptions = (
+  params: GetNextRacesParams = getNextRacesDefaults,
+) => (
   queryOptions({
     queryKey: getNextRacesQueryKey(params),
     queryFn: async ({ signal }) => {
