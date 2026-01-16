@@ -21,6 +21,11 @@ export const getNextRacesQueryKey = (
 // the application doesn't care about the format of these IDs.
 export const raceIdSchema = z.string();
 
+// Deserialize by converting object with seconds property
+// into a native JS Date object.
+export const timeStampSchema = z.object({ seconds: z.number() })
+  .transform(({ seconds }) => new Date(seconds * 1_000));
+
 // We only declare fields we care about since any mistake in correctly typing
 // fields we DON'T care about will lead to the entire payload failing to parse.
 export const raceSummarySchema = z.object({
@@ -29,6 +34,7 @@ export const raceSummarySchema = z.object({
   race_number: z.number(),
   meeting_name: z.string(),
   category_id: z.string(),
+  advertised_start: timeStampSchema,
 });
 
 export const getNextRacesSchema = z.object({

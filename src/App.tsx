@@ -65,6 +65,8 @@ export const App: FC = () => {
           <li key={race.race_id}>
             <strong>{race.meeting_name} R{race.race_number}</strong>
             <br />
+            <span>Starts at {race.advertised_start.toLocaleTimeString()}</span>
+            <br />
             <em>{race.race_id}</em>
           </li>
         ))}
