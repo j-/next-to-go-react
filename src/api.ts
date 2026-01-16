@@ -37,6 +37,8 @@ export const raceSummarySchema = z.object({
   advertised_start: timeStampSchema,
 });
 
+export type RaceSummary = z.output<typeof raceSummarySchema>;
+
 export const getNextRacesSchema = z.object({
   data: z.object({
     next_to_go_ids: z.array(raceIdSchema),

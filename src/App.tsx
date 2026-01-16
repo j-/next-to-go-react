@@ -1,11 +1,8 @@
 import { useQuery } from '@tanstack/react-query';
 import { useMemo, useState, type FC } from 'react';
-import {
-  CATEGORY_ID_GREYHOUND,
-  CATEGORY_ID_HARNESS,
-  CATEGORY_ID_HORSE,
-  getNextRacesOptions,
-} from './api';
+import { getNextRacesOptions } from './api';
+import { CategorySelector } from './CategorySelector';
+import { NextToGo } from './NextToGo';
 
 export const App: FC = () => {
   /**
@@ -33,11 +30,11 @@ export const App: FC = () => {
 
   const filteredData = useMemo(() => {
     if (!data) return [];
-    if (!categoryId) return data.slice(0, limit);
+    if (!categoryId) return data;
 
     return data.filter((race) => (
       race.category_id === categoryId
-    )).slice(0, limit);
+    ));
   }, [categoryId, data]);
 
   if (error) {
@@ -51,26 +48,8 @@ export const App: FC = () => {
 
   return (
     <div>
-      <select value={categoryId ?? ''} onChange={(e) => {
-        setCategoryId(e.currentTarget.value || null);
-      }}>
-        <option value="">All categories</option>
-        <option value={CATEGORY_ID_GREYHOUND}>Greyhound</option>
-        <option value={CATEGORY_ID_HARNESS}>Harness</option>
-        <option value={CATEGORY_ID_HORSE}>Horse</option>
-      </select>
-
-      <ol>
-        {filteredData?.map((race) => (
-          <li key={race.race_id}>
-            <strong>{race.meeting_name} R{race.race_number}</strong>
-            <br />
-            <span>Starts at {race.advertised_start.toLocaleTimeString()}</span>
-            <br />
-            <em>{race.race_id}</em>
-          </li>
-        ))}
-      </ol>
+      <CategorySelector categoryId={categoryId} setCategoryId={setCategoryId} />
+      <NextToGo nextToGo={filteredData} limit={limit} />
 
       <hr />
 
