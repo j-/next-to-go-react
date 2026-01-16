@@ -25,6 +25,10 @@ bun dev
 
 # Start production server. HMR and mocks disabled.
 bun start
+
+# Execute unit tests.
+bun test
+bun test --watch
 ```
 
 Criteria

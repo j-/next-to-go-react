@@ -44,7 +44,13 @@ export const getNextRacesSchema = z.object({
     next_to_go_ids: z.array(raceIdSchema),
     race_summaries: z.record(raceIdSchema, raceSummarySchema),
   }),
-});
+}).transform(({ data }) => (
+  // Denormalizes the payload so that we just get a
+  // simple array of races that are next to jump.
+  data.next_to_go_ids.map((raceId) => {
+    return data.race_summaries[raceId];
+  }).filter((race) => race != null)
+));
 
 export const getNextRacesOptions = (
   params: GetNextRacesParams = getNextRacesDefaults,
@@ -64,14 +70,6 @@ export const getNextRacesOptions = (
 
       const payload = await res.json();
       return getNextRacesSchema.parse(payload);
-    },
-
-    // Denormalizes the payload so that we just get a
-    // simple array of races that are next to jump.
-    select: ({ data }) => {
-      return data.next_to_go_ids.map((raceId) => {
-        return data.race_summaries[raceId];
-      }).filter((race) => race != null);
     },
   })
 );
