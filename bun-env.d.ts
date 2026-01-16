@@ -22,5 +22,11 @@ declare module 'bun' {
      * @default "https://example.com/"
      */
     BUN_PUBLIC_API_HOST: string;
+
+    /**
+     * Will use mocks in dev mode when "1" or "true".
+     * @default "1"
+     */
+    BUN_PUBLIC_ENABLE_MOCKS: string;
   }
 }
