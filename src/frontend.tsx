@@ -1,8 +1,15 @@
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { createRoot } from 'react-dom/client';
 import { App } from './App';
 
+const queryClient = new QueryClient();
+
 const elem = document.getElementById('root')!;
-const app = <App />;
+const app = (
+  <QueryClientProvider client={queryClient}>
+    <App />
+  </QueryClientProvider>
+);
 
 const initMocks = async () => {
   // Only enable MSW mocks in dev mode.
