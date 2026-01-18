@@ -63,10 +63,6 @@ export const App: FC = () => {
     <div>
       <CategorySelector categoryId={categoryId} setCategoryId={setCategoryId} />
       <NextToGo nextToGo={filteredData} limit={limit} now={now} />
-
-      <hr />
-
-      <pre>{JSON.stringify(data, null, 2)}</pre>
     </div>
   );
 };
