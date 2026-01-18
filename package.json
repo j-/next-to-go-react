@@ -4,9 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "bun --hot src/index.ts",
-    "start": "NODE_ENV=production bun src/index.ts",
-    "build": "bun build ./src/index.html --outdir=dist --sourcemap --target=browser --minify --define:process.env.NODE_ENV='\"production\"' --env='BUN_PUBLIC_*'"
+    "dev": "bunx --bun vite",
+    "prestart": "bun run build",
+    "start": "NODE_ENV=production bunx --bun vite preview",
+    "build": "bunx --bun vite build"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.90.17",
@@ -22,16 +23,18 @@
     "@types/bun": "latest",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^5.1.2",
     "eslint": "^9.39.2",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^7.0.1",
     "globals": "^17.0.0",
-    "typescript-eslint": "^8.53.0"
+    "typescript-eslint": "^8.53.0",
+    "vite": "^7.3.1"
   },
   "msw": {
     "workerDirectory": [
-      "src"
+      "public"
     ]
   }
 }

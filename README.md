@@ -2,6 +2,8 @@ Next to go (React)
 ==================
 
 - Bootstrapped with `bun init`.
+- Journey: Start with React/Bun project for rapid prototyping &rarr; convert to
+  Vite &rarr; apply Tailwind styles.
 - Code, tests, and documentation was all written by a human (me). Absolutely no
   AI was used at any point.
 - VS Code workspace extensions (recommended):
@@ -29,6 +31,9 @@ bun start
 # Execute unit tests.
 bun test
 bun test --watch
+
+# Run build.
+bun run build
 ```
 
 Criteria
