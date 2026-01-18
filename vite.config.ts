@@ -1,3 +1,4 @@
+import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
 import { defineConfig } from 'vite';
 
@@ -9,5 +10,8 @@ export default defineConfig({
       BUN_PUBLIC_ENABLE_MOCKS: process.env.BUN_PUBLIC_ENABLE_MOCKS,
     } as Bun.Env,
   },
-  plugins: [react()],
+  plugins: [
+    react(),
+    tailwindcss(),
+  ],
 });
