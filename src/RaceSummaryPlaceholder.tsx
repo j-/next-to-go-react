@@ -2,12 +2,8 @@ import type { FC } from 'react';
 
 export const RaceSummaryPlaceholder: FC = () => {
   return (
-    <div>
-      <strong>&mdash;</strong>
-      <br />
-      &mdash;
-      <br />
-      &mdash;
+    <div data-testid="RaceSummaryPlaceholder">
+      <strong className="select-none">&mdash;</strong>
     </div>
   );
 };

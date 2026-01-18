@@ -1,10 +1,6 @@
 import { describe, expect, it } from 'bun:test';
-import {
-  CATEGORY_ID_GREYHOUND,
-  CATEGORY_ID_HARNESS,
-  CATEGORY_ID_HORSE,
-  getNextRacesSchema,
-} from './api';
+import { getNextRacesSchema } from './api';
+import { RacingCategory } from './categories';
 import { filterRaces } from './filter-races';
 import payload from './mocks/nextraces/payload-1768438793569.json';
 
@@ -33,7 +29,7 @@ describe('filterRaces()', () => {
 
   it('can filter by horse races', () => {
     const predicate = filterRaces({
-      categoryId: CATEGORY_ID_HORSE,
+      categoryId: RacingCategory.HORSE,
       maxAgeMs: Infinity,
       now: new Date(0),
     });
@@ -48,7 +44,7 @@ describe('filterRaces()', () => {
 
   it('can filter by greyhound races', () => {
     const predicate = filterRaces({
-      categoryId: CATEGORY_ID_GREYHOUND,
+      categoryId: RacingCategory.GREYHOUND,
       maxAgeMs: Infinity,
       now: new Date(0),
     });
@@ -66,7 +62,7 @@ describe('filterRaces()', () => {
 
   it('can filter by harness races', () => {
     const predicate = filterRaces({
-      categoryId: CATEGORY_ID_HARNESS,
+      categoryId: RacingCategory.HARNESS,
       maxAgeMs: Infinity,
       now: new Date(0),
     });

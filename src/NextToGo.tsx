@@ -1,5 +1,6 @@
 import { useMemo, type FC } from 'react';
 import type { RaceSummary } from './api';
+import { NextToGoListItem } from './NextToGoListItem';
 import { RaceSummaryPlaceholder } from './RaceSummaryPlaceholder';
 import { RaceSummaryView } from './RaceSummaryView';
 
@@ -30,16 +31,20 @@ export const NextToGo: FC<NextToGoProps> = ({
       .map((race, i) => (
         race ?
           <li key={race.race_id}>
-            <RaceSummaryView race={race} now={now} />
+            <NextToGoListItem>
+              <RaceSummaryView race={race} now={now} />
+            </NextToGoListItem>
           </li> :
           <li key={`placeholder-${i}`}>
-            <RaceSummaryPlaceholder />
+            <NextToGoListItem placeholder>
+              <RaceSummaryPlaceholder />
+            </NextToGoListItem>
           </li>
       ));
   }, [limit, nextToGo, now]);
 
   return (
-    <ol>
+    <ol data-testid="NextToGo">
       {children}
     </ol>
   );
