@@ -18,8 +18,31 @@ Next to go (React)
 [ext-editorconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [ext-bun]: https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode
 
+Get started
+-----------
+
+```sh
+# Build with Docker. Replace example host with real host.
+docker build \
+  --build-arg BUN_PUBLIC_API_HOST=https://api.example.com.au/ \
+  --build-arg BUN_PUBLIC_ENABLE_MOCKS=0 \
+  -t next-to-go-react .
+
+# Run server on port 80.
+docker run -p 80:80 next-to-go-react
+```
+
+Server will be available at <http://localhost/>.
+
 Development
 -----------
+
+Requires `bun`.
+
+```sh
+# Install Bun.
+curl -fsSL https://bun.sh/install | bash
+```
 
 ```sh
 # Start development server. HMR and mocks enabled.
@@ -59,3 +82,41 @@ Criteria
    to only the selected category.** These category IDs are hardcoded as constant
    values, however there is a potential area of improvement in deriving these
    from the backend to ensure separation of concerns and promote scalability.
+
+Potential areas of improvement
+------------------------------
+
+This project is far from perfect. There are many potential areas of improvement.
+
+1. **Replace hardcoded values with global configuration**. Ideally all configs
+   are centralised and can be updated without searching for the module in which
+   they are used in order to update them. It is best to use few or no
+   deployments to change core functionality.
+2. **Abstract and reuse styles**. Tailwind classes are inlined and can be moved
+   into CSS modules or leverage other abstraction methods for simpler code and
+   better reuse across components.
+3. **Themeing and support for dark mode**. The current design is rigid in its
+   implementation and beyond tweaking Tailwind vars to adjust colors and spacing
+   etc there is no ability to apply wholesale style changes which is desirable.
+4. **Better accessibility**. Semantic HTML elements are used as well as
+   occasional ARIA tags but there is a lot of room for a more excessible
+   experience particularly regarding keyboard-only use.
+
+Other projects by me
+--------------------
+
+These other projects I have worked on may better demonstrate competency in some
+key areas.
+
+- [skeoh.com](https://skeoh.com/) - My portfolio written in NextJS which uses
+  Tailwind and has a stronger focus on accessibility.
+- [wake.lol](https://wake.lol/) - A personal project of mine which has support
+  for both dark mode and light mode as well as heavy use of global state
+  management.
+- [save-for-later](https://save-for-later.fly.dev/) - Unpublished project which
+  uses Tanstack Query for querying/mutating data, IndexedDB for clientside data
+  persistence, Tanstack Router for SPA routing, React Hook Form + Zod for forms,
+  and FormatJS / React Intl for internationalisation / localisation. Also being
+  developed as a PWA which supports the Share Target API (Chrome on Android
+  only). Definitely a work in progress but something I'm excited about.
+  [Code published here](https://github.com/j-/save-for-later/).
