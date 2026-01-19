@@ -53,6 +53,9 @@ bun dev
 # Start production server. HMR and mocks disabled.
 bun start
 
+# Code style check. Will fix violations.
+bun lint
+
 # Execute unit tests.
 bun test
 bun test --watch
