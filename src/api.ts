@@ -62,7 +62,7 @@ export const getNextRacesOptions = (
       url.searchParams.set('count', String(params.count));
 
       const res = await fetch(url, { signal });
-      if (!res.ok) throw new Error('Response was not OK');
+      if (!res.ok) throw new Error(res.statusText);
 
       const payload = await res.json();
       return getNextRacesSchema.parse(payload);

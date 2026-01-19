@@ -20,9 +20,12 @@ export const CategorySelector: FC<CategorySelectorProps> = ({
   const name = `${id}-category`;
 
   return (
-    <fieldset data-testid="CategorySelector" onChange={(e) => {
-      setCategoryId((e.target as HTMLInputElement).value || null);
-    }}>
+    <fieldset
+      data-testid="CategorySelector"
+      onChange={(e) => {
+        setCategoryId((e.target as HTMLInputElement).value || null);
+      }}
+    >
       <legend className="sr-only">Select category</legend>
 
       <ul className="select-none grid gap-2 grid-cols-[1fr_1fr_1fr] sm:grid-cols-[1fr_auto_auto_auto]">
@@ -45,7 +48,7 @@ export const CategorySelector: FC<CategorySelectorProps> = ({
             <CategoryIcon
               categoryId={RacingCategory.HORSE}
               className="w-6 h-6"
-              aria-role="presentation"
+              role="presentation"
             />
             <span className="sr-only">Horse racing</span>
           </CategorySelectorRadio>
@@ -60,7 +63,7 @@ export const CategorySelector: FC<CategorySelectorProps> = ({
             <CategoryIcon
               categoryId={RacingCategory.GREYHOUND}
               className="w-6 h-6"
-              aria-role="presentation"
+              role="presentation"
             />
             <span className="sr-only">Greyhound racing</span>
           </CategorySelectorRadio>
@@ -75,7 +78,7 @@ export const CategorySelector: FC<CategorySelectorProps> = ({
             <CategoryIcon
               categoryId={RacingCategory.HARNESS}
               className="w-6 h-6"
-              aria-role="presentation"
+              role="presentation"
             />
             <span className="sr-only">Harness racing</span>
           </CategorySelectorRadio>
