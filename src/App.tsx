@@ -6,7 +6,7 @@ export const App: FC = () => {
   const [categoryId, setCategoryId] = useState<string | null>(null);
 
   return (
-    <div className="mx-auto my-10 flex flex-col gap-4 min-w-[40ch] max-w-[60ch]">
+    <div className="mx-auto my-10 flex flex-col gap-4 max-w-[60ch]">
       <CategorySelector categoryId={categoryId} setCategoryId={setCategoryId} />
       <NextToGoLive categoryId={categoryId} />
     </div>

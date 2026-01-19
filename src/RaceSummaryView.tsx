@@ -19,14 +19,14 @@ export const RaceSummaryView: FC<RaceSummaryViewProps> = ({ race, now }) => {
 
   return (
     <div data-testid="RaceSummaryView">
-      <div className="flex flex-row gap-2 truncate items-center">
+      <div className="flex flex-row gap-2 truncate items-center flex-wrap">
         <CategoryIcon categoryId={race.category_id} className="w-6 h-6" />
 
         <strong>{race.meeting_name} R{race.race_number}</strong>
 
         <span className={
           classNames(
-            'ml-auto min-w-fit',
+            'ml-auto min-w-full sm:min-w-fit',
             isNegative ? 'text-red-400' : 'text-inherit',
           )
         }>
