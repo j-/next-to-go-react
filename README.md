@@ -1,5 +1,7 @@
-Next to go (React)
-==================
+[Next to go (React)][react]
+===========================
+
+[react]: https://next-to-go.fly.dev/react/
 
 - Bootstrapped with `bun init`.
 - Journey: Start with React/Bun project for rapid prototyping &rarr; convert to
