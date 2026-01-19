@@ -59,6 +59,21 @@ bun test --watch
 bun run build
 ```
 
+Screenshots
+-----------
+
+| Larger screens          | Smaller screens      |
+|-------------------------|----------------------|
+| ![](./res/md.png)       | ![](./res/sm.png)    |
+
+| 59 seconds past jump    | 60 seconds past jump |
+|-------------------------|----------------------|
+| ![](./res/59s.png)      | ![](./res/60s.png)   |
+
+| Category filtering      | Basic error handling |
+|-------------------------|----------------------|
+| ![](./res/filtered.png) | ![](./res/err.png)   |
+
 Criteria
 --------
 
