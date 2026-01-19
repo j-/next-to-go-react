@@ -8,6 +8,10 @@ export type CategorySelectorProps = {
   setCategoryId: (categoryId: string | null) => void;
 };
 
+/**
+ * Manages the selected category for filtering by category ID, or `null` to show
+ * races from all categories.
+ */
 export const CategorySelector: FC<CategorySelectorProps> = ({
   categoryId,
   setCategoryId,
@@ -21,8 +25,8 @@ export const CategorySelector: FC<CategorySelectorProps> = ({
     }}>
       <legend className="sr-only">Select category</legend>
 
-      <ul className="select-none grid gap-2 md:grid-cols-[1fr_auto_auto_auto]">
-        <li>
+      <ul className="select-none grid gap-2 grid-cols-[1fr_1fr_1fr] sm:grid-cols-[1fr_auto_auto_auto]">
+        <li className="col-span-3 sm:col-span-1">
           <CategorySelectorRadio
             name={name}
             value=""
@@ -41,8 +45,9 @@ export const CategorySelector: FC<CategorySelectorProps> = ({
             <CategoryIcon
               categoryId={RacingCategory.HORSE}
               className="w-6 h-6"
-              aria-label="Horse racing"
+              aria-role="presentation"
             />
+            <span className="sr-only">Horse racing</span>
           </CategorySelectorRadio>
         </li>
 
@@ -55,8 +60,9 @@ export const CategorySelector: FC<CategorySelectorProps> = ({
             <CategoryIcon
               categoryId={RacingCategory.GREYHOUND}
               className="w-6 h-6"
-              aria-label="Greyhound racing"
+              aria-role="presentation"
             />
+            <span className="sr-only">Greyhound racing</span>
           </CategorySelectorRadio>
         </li>
 
@@ -69,8 +75,9 @@ export const CategorySelector: FC<CategorySelectorProps> = ({
             <CategoryIcon
               categoryId={RacingCategory.HARNESS}
               className="w-6 h-6"
-              aria-label="Harness racing"
+              aria-role="presentation"
             />
+            <span className="sr-only">Harness racing</span>
           </CategorySelectorRadio>
         </li>
       </ul>

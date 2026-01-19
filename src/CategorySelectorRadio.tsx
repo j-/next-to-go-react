@@ -2,6 +2,10 @@ import { useId, type FC, type InputHTMLAttributes } from 'react';
 
 export type CategorySelectorRadioProps = InputHTMLAttributes<HTMLInputElement>;
 
+/**
+ * Renders a fragment containing an input/label pair. Automatically associates
+ * the label with the input via an internally generated ID.
+ */
 export const CategorySelectorRadio: FC<CategorySelectorRadioProps> = ({
   children,
   ...props

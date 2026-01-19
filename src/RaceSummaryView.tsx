@@ -9,6 +9,11 @@ export type RaceSummaryViewProps = {
   now: Date;
 };
 
+/**
+ * A simple view describing a race that is ready to jump. Displays the category
+ * of race as an icon, the meeting name, and the race number, as well as a
+ * countdown to the advertised start time of the race.
+ */
 export const RaceSummaryView: FC<RaceSummaryViewProps> = ({ race, now }) => {
   const isNegative = now > race.advertised_start;
 

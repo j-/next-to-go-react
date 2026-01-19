@@ -5,6 +5,10 @@ export type NextToGoListItemProps = PropsWithChildren<{
   placeholder?: boolean;
 }>;
 
+/**
+ * Container for a single race in the "next to go" list. Ensures a consistent
+ * presentation for both races and race placeholders.
+ */
 export const NextToGoListItem: FC<NextToGoListItemProps> = ({
   placeholder = false,
   children,

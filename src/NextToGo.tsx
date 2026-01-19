@@ -10,6 +10,13 @@ export type NextToGoProps = {
   now: Date;
 };
 
+/**
+ * Pure presentational component which takes a list of races which are next to
+ * jump as well as the total number of races to show and the current time. The
+ * limit is used to truncate the list when there are too many races to show, and
+ * pad the list when there are too few. The `now` prop is used to keep countdown
+ * timers in sync.
+ */
 export const NextToGo: FC<NextToGoProps> = ({
   nextToGo,
   limit,

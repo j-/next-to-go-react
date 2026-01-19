@@ -9,6 +9,10 @@ export type NextToGoLiveProps = {
   categoryId: string | null;
 };
 
+/**
+ * Stateful component which manages the "get next races" query and composes the
+ * {@link NextToGo} component for rendering those results.
+ */
 export const NextToGoLive: FC<NextToGoLiveProps> = ({ categoryId }) => {
   const now = useNow();
 
@@ -58,7 +62,11 @@ export const NextToGoLive: FC<NextToGoLiveProps> = ({ categoryId }) => {
         <h1 className="text-xl font-bold">Request failed</h1>
         <pre className="my-4">{String(error)}</pre>
 
-        <button type="button" onClick={() => refetch()} className="cursor-pointer py-2 px-4 rounded bg-gray-700 text-gray-50 opacity-90 hover:opacity-100 active:bg-gray-800">
+        <button
+          type="button"
+          onClick={() => refetch()}
+          className="cursor-pointer py-2 px-4 rounded bg-gray-700 text-gray-50 opacity-90 hover:opacity-100 active:bg-gray-800"
+        >
           Reload&hellip;
         </button>
       </div>
