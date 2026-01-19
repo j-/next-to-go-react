@@ -125,13 +125,15 @@ key areas.
 
 - [skeoh.com](https://skeoh.com/) - My portfolio written in NextJS which uses
   Tailwind and has a stronger focus on accessibility.
+  - Code is unpublished.
 - [wake.lol](https://wake.lol/) - A personal project of mine which has support
   for both dark mode and light mode as well as heavy use of global state
   management.
+  - [Code published here](https://github.com/j-/wake.lol).
 - [save-for-later](https://save-for-later.fly.dev/) - Unpublished project which
   uses Tanstack Query for querying/mutating data, IndexedDB for clientside data
   persistence, Tanstack Router for SPA routing, React Hook Form + Zod for forms,
   and FormatJS / React Intl for internationalisation / localisation. Also being
   developed as a PWA which supports the Share Target API (Chrome on Android
   only). Definitely a work in progress but something I'm excited about.
-  [Code published here](https://github.com/j-/save-for-later/).
+  - [Code published here](https://github.com/j-/save-for-later).
