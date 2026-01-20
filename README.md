@@ -67,9 +67,7 @@ bun run build
 Screenshots
 -----------
 
-| Larger screens          | Smaller screens      |
-|-------------------------|----------------------|
-| ![](./res/md.png)       | ![](./res/sm.png)    |
+![](./res/combined.png)
 
 | 59 seconds past jump    | 60 seconds past jump |
 |-------------------------|----------------------|
